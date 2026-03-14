@@ -1,0 +1,51 @@
+// Comparador de Compras — Modelo E-R
+// Generar diagrama en: https://dbdiagram.io
+
+Project comparador_compras {
+  database_type: 'PostgreSQL'
+  Note: 'Base de datos para Comparador de Compras de Productos de Tecnología — UAN 2026-I'
+}
+
+Table categories {
+  id integer [pk, increment]
+  name varchar(100) [not null]
+  slug varchar(100) [not null, unique]
+}
+
+Table brands {
+  id integer [pk, increment]
+  name varchar(100) [not null]
+  slug varchar(100) [not null, unique]
+}
+
+Table stores {
+  id integer [pk, increment]
+  name varchar(100) [not null]
+  slug varchar(100) [not null, unique]
+  url varchar(255)
+  city varchar(100)
+}
+
+Table products {
+  id integer [pk, increment]
+  category_id integer [not null, ref: > categories.id]
+  brand_id integer [not null, ref: > brands.id]
+  name varchar(500) [not null]
+  model varchar(200)
+  description text
+  image_url varchar(500)
+  specifications jsonb [note: 'Specs varían por categoría']
+  created_at timestamp [default: `now()`]
+}
+
+Table product_prices {
+  id integer [pk, increment]
+  product_id integer [not null, ref: > products.id]
+  store_id integer [not null, ref: > stores.id]
+  price integer [not null, note: 'Precio en COP']
+  original_price integer [note: 'Precio antes de descuento, puede ser NULL']
+  currency varchar(10) [default: 'COP']
+  availability varchar(50) [default: 'disponible', note: 'disponible | pocas_unidades | agotado']
+  url varchar(500)
+  last_updated date [default: `current_date`]
+}
