@@ -18,7 +18,7 @@ Base de datos simulada de productos de tecnología disponibles en tiendas colomb
 | Productos | **617** |
 | Registros de precios | **2.167** |
 | Categorías | 5 |
-| Marcas | 36 |
+| Marcas | 35 |
 | Tiendas | 5 |
 | Moneda | COP (pesos colombianos) |
 | Rango de precios | $55.900 — $10.991.990 |
@@ -249,7 +249,7 @@ Un producto pertenece a una categoría y una marca. Un producto puede tener múl
 | `name` | varchar | Nombre de la marca |
 | `slug` | varchar | URL-friendly |
 
-36 marcas: Acer, AMD, Apple, ASUS, Bose, Corsair, Crucial, Dell, EVGA, Gigabyte, Honor, HP, Huawei, HyperX, Intel, JBL, Kingston, Lenovo, LG, Logitech, Motorola, MSI, Nothing, OnePlus, Oppo, Razer, Realme, Redragon, Samsung, Seagate, Sony, SteelSeries, Trust, Western Digital, Xiaomi.
+35 marcas: Acer, AMD, Apple, ASUS, Bose, Corsair, Crucial, Dell, EVGA, Gigabyte, Honor, HP, Huawei, HyperX, Intel, JBL, Kingston, Lenovo, LG, Logitech, Motorola, MSI, Nothing, OnePlus, Oppo, Razer, Realme, Redragon, Samsung, Seagate, Sony, SteelSeries, Trust, Western Digital, Xiaomi.
 
 ### `stores`
 

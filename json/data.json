@@ -54,161 +54,156 @@
     },
     {
       "id": 5,
-      "name": "Asus",
-      "slug": "asus"
-    },
-    {
-      "id": 6,
       "name": "Bose",
       "slug": "bose"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Corsair",
       "slug": "corsair"
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Crucial",
       "slug": "crucial"
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Dell",
       "slug": "dell"
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "EVGA",
       "slug": "evga"
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Gigabyte",
       "slug": "gigabyte"
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "HP",
       "slug": "hp"
     },
     {
-      "id": 13,
+      "id": 12,
       "name": "Honor",
       "slug": "honor"
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "Huawei",
       "slug": "huawei"
     },
     {
-      "id": 15,
+      "id": 14,
       "name": "HyperX",
       "slug": "hyperx"
     },
     {
-      "id": 16,
+      "id": 15,
       "name": "Intel",
       "slug": "intel"
     },
     {
-      "id": 17,
+      "id": 16,
       "name": "JBL",
       "slug": "jbl"
     },
     {
-      "id": 18,
+      "id": 17,
       "name": "Kingston",
       "slug": "kingston"
     },
     {
-      "id": 19,
+      "id": 18,
       "name": "Lenovo",
       "slug": "lenovo"
     },
     {
-      "id": 20,
+      "id": 19,
       "name": "Logitech",
       "slug": "logitech"
     },
     {
-      "id": 21,
+      "id": 20,
       "name": "MSI",
       "slug": "msi"
     },
     {
-      "id": 22,
+      "id": 21,
       "name": "Motorola",
       "slug": "motorola"
     },
     {
-      "id": 23,
+      "id": 22,
       "name": "Nothing",
       "slug": "nothing"
     },
     {
-      "id": 24,
+      "id": 23,
       "name": "OnePlus",
       "slug": "oneplus"
     },
     {
-      "id": 25,
+      "id": 24,
       "name": "Oppo",
       "slug": "oppo"
     },
     {
-      "id": 26,
+      "id": 25,
       "name": "Razer",
       "slug": "razer"
     },
     {
-      "id": 27,
+      "id": 26,
       "name": "Realme",
       "slug": "realme"
     },
     {
-      "id": 28,
+      "id": 27,
       "name": "Redragon",
       "slug": "redragon"
     },
     {
-      "id": 29,
+      "id": 28,
       "name": "Samsung",
       "slug": "samsung"
     },
     {
-      "id": 30,
+      "id": 29,
       "name": "Seagate",
       "slug": "seagate"
     },
     {
-      "id": 31,
+      "id": 30,
       "name": "Sony",
       "slug": "sony"
     },
     {
-      "id": 32,
+      "id": 31,
       "name": "SteelSeries",
       "slug": "steelseries"
     },
     {
-      "id": 33,
+      "id": 32,
       "name": "Trust",
       "slug": "trust"
     },
     {
-      "id": 34,
+      "id": 33,
       "name": "Western Digital",
       "slug": "western-digital"
     },
     {
-      "id": 35,
+      "id": 34,
       "name": "Xiaomi",
       "slug": "xiaomi"
     },
     {
-      "id": 36,
+      "id": 35,
       "name": "LG",
       "slug": "lg"
     }
@@ -254,7 +249,7 @@
     {
       "id": 1,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Victus 14GK13",
       "model": "Victus-14GK13",
       "description": "Portátil HP Victus con procesador Intel Core i3-1215U, 16GB RAM, 512GB SSD, pantalla de 14\".",
@@ -273,7 +268,7 @@
     {
       "id": 2,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus TUF Gaming 15BR45",
       "model": "TUF Gaming-15BR45",
       "description": "Portátil Asus TUF Gaming con procesador AMD Ryzen 7 7730U, 8GB RAM, 256GB SSD, pantalla de 15.6\".",
@@ -292,7 +287,7 @@
     {
       "id": 3,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell Vostro 16GR56",
       "model": "Vostro-16GR56",
       "description": "Portátil Dell Vostro con procesador AMD Ryzen 7 7730U, 64GB RAM, 512GB SSD, pantalla de 16\".",
@@ -311,7 +306,7 @@
     {
       "id": 4,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book Pro 14FS12",
       "model": "Galaxy Book Pro-14FS12",
       "description": "Portátil Samsung Galaxy Book Pro con procesador Intel Core i5-1335U, 16GB RAM, 512GB SSD, pantalla de 16\".",
@@ -330,7 +325,7 @@
     {
       "id": 5,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 15CS41",
       "model": "Yoga-15CS41",
       "description": "Portátil Lenovo Yoga con procesador Intel Core i7-1365U, 32GB RAM, 256GB SSD, pantalla de 17.3\".",
@@ -349,7 +344,7 @@
     {
       "id": 6,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo LOQ 17DR17",
       "model": "LOQ-17DR17",
       "description": "Portátil Lenovo LOQ con procesador Intel Core Ultra 9 185H, 8GB RAM, 256GB SSD, pantalla de 15.6\".",
@@ -368,7 +363,7 @@
     {
       "id": 7,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo LOQ 14DQ46",
       "model": "LOQ-14DQ46",
       "description": "Portátil Lenovo LOQ con procesador Intel Core i3-1215U, 8GB RAM, 512GB SSD + 1TB HDD, pantalla de 15.6\".",
@@ -387,7 +382,7 @@
     {
       "id": 8,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo LOQ 15AP56",
       "model": "LOQ-15AP56",
       "description": "Portátil Lenovo LOQ con procesador AMD Ryzen 7 7840HS, 8GB RAM, 1TB SSD, pantalla de 17.3\".",
@@ -406,7 +401,7 @@
     {
       "id": 9,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell G Series 16GQ13",
       "model": "G Series-16GQ13",
       "description": "Portátil Dell G Series con procesador Intel Core i7-1365U, 64GB RAM, 1TB SSD, pantalla de 16\".",
@@ -425,7 +420,7 @@
     {
       "id": 10,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Victus 15DR95",
       "model": "Victus-15DR95",
       "description": "Portátil HP Victus con procesador AMD Ryzen 9 7845HX, 32GB RAM, 2TB SSD, pantalla de 16\".",
@@ -444,7 +439,7 @@
     {
       "id": 11,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo LOQ 14GN32",
       "model": "LOQ-14GN32",
       "description": "Portátil Lenovo LOQ con procesador Intel Core Ultra 9 185H, 64GB RAM, 2TB SSD, pantalla de 13.3\".",
@@ -463,7 +458,7 @@
     {
       "id": 12,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book 14CM39",
       "model": "Galaxy Book-14CM39",
       "description": "Portátil Samsung Galaxy Book con procesador AMD Ryzen 7 7730U, 64GB RAM, 256GB SSD, pantalla de 16\".",
@@ -501,7 +496,7 @@
     {
       "id": 14,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Legion 14DS99",
       "model": "Legion-14DS99",
       "description": "Portátil Lenovo Legion con procesador AMD Ryzen 9 7945HX, 16GB RAM, 256GB SSD, pantalla de 17.3\".",
@@ -520,7 +515,7 @@
     {
       "id": 15,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Legion 14GQ91",
       "model": "Legion-14GQ91",
       "description": "Portátil Lenovo Legion con procesador Intel Core i9-13980HX, 8GB RAM, 512GB SSD + 1TB HDD, pantalla de 16\".",
@@ -539,7 +534,7 @@
     {
       "id": 16,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo IdeaPad 17HK21",
       "model": "IdeaPad-17HK21",
       "description": "Portátil Lenovo IdeaPad con procesador AMD Ryzen 5 7520U, 16GB RAM, 2TB SSD, pantalla de 13.3\".",
@@ -558,7 +553,7 @@
     {
       "id": 17,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Omen 16HS66",
       "model": "Omen-16HS66",
       "description": "Portátil HP Omen con procesador Intel Core i7-13700H, 32GB RAM, 512GB SSD, pantalla de 13.3\".",
@@ -577,7 +572,7 @@
     {
       "id": 18,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 14CK62",
       "model": "Yoga-14CK62",
       "description": "Portátil Lenovo Yoga con procesador AMD Ryzen 5 7640HS, 16GB RAM, 1TB SSD, pantalla de 14\".",
@@ -596,7 +591,7 @@
     {
       "id": 19,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Victus 14GQ87",
       "model": "Victus-14GQ87",
       "description": "Portátil HP Victus con procesador Intel Core Ultra 9 185H, 32GB RAM, 512GB SSD + 1TB HDD, pantalla de 17.3\".",
@@ -615,7 +610,7 @@
     {
       "id": 20,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book 14GK94",
       "model": "Galaxy Book-14GK94",
       "description": "Portátil Samsung Galaxy Book con procesador Intel Core i7-13650HX, 8GB RAM, 2TB SSD, pantalla de 14\".",
@@ -634,7 +629,7 @@
     {
       "id": 21,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Victus 17DS80",
       "model": "Victus-17DS80",
       "description": "Portátil HP Victus con procesador Intel Core Ultra 9 185H, 64GB RAM, 1TB SSD, pantalla de 17.3\".",
@@ -653,7 +648,7 @@
     {
       "id": 22,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Envy 14HP53",
       "model": "Envy-14HP53",
       "description": "Portátil HP Envy con procesador Intel Core Ultra 9 185H, 64GB RAM, 256GB SSD, pantalla de 15.6\".",
@@ -748,7 +743,7 @@
     {
       "id": 27,
       "category_id": 1,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Katana 15AP68",
       "model": "Katana-15AP68",
       "description": "Portátil MSI Katana con procesador AMD Ryzen 5 7520U, 64GB RAM, 2TB SSD, pantalla de 16\".",
@@ -767,7 +762,7 @@
     {
       "id": 28,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book Pro 17FS61",
       "model": "Galaxy Book Pro-17FS61",
       "description": "Portátil Samsung Galaxy Book Pro con procesador AMD Ryzen 5 7640HS, 8GB RAM, 512GB SSD + 1TB HDD, pantalla de 15.6\".",
@@ -786,7 +781,7 @@
     {
       "id": 29,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus TUF Gaming 15BQ81",
       "model": "TUF Gaming-15BQ81",
       "description": "Portátil Asus TUF Gaming con procesador AMD Ryzen 5 7640HS, 8GB RAM, 512GB SSD + 1TB HDD, pantalla de 17.3\".",
@@ -805,7 +800,7 @@
     {
       "id": 30,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Pavilion 17GP37",
       "model": "Pavilion-17GP37",
       "description": "Portátil HP Pavilion con procesador Intel Core i3-1315U, 8GB RAM, 256GB SSD, pantalla de 16\".",
@@ -824,7 +819,7 @@
     {
       "id": 31,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell G Series 16GR91",
       "model": "G Series-16GR91",
       "description": "Portátil Dell G Series con procesador AMD Ryzen 5 7520U, 64GB RAM, 256GB SSD, pantalla de 13.3\".",
@@ -843,7 +838,7 @@
     {
       "id": 32,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP ProBook 15HS82",
       "model": "ProBook-15HS82",
       "description": "Portátil HP ProBook con procesador Intel Core i7-1365U, 32GB RAM, 512GB SSD, pantalla de 15.6\".",
@@ -862,7 +857,7 @@
     {
       "id": 33,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book Pro 14DS66",
       "model": "Galaxy Book Pro-14DS66",
       "description": "Portátil Samsung Galaxy Book Pro con procesador Intel Core i5-1340P, 8GB RAM, 1TB SSD, pantalla de 14\".",
@@ -881,7 +876,7 @@
     {
       "id": 34,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP ProBook 16CL92",
       "model": "ProBook-16CL92",
       "description": "Portátil HP ProBook con procesador Intel Core i9-13980HX, 16GB RAM, 512GB SSD + 1TB HDD, pantalla de 14\".",
@@ -919,7 +914,7 @@
     {
       "id": 36,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Envy 17BN67",
       "model": "Envy-17BN67",
       "description": "Portátil HP Envy con procesador AMD Ryzen 7 7840HS, 8GB RAM, 512GB SSD, pantalla de 16\".",
@@ -938,7 +933,7 @@
     {
       "id": 37,
       "category_id": 1,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Thin 17BL73",
       "model": "Thin-17BL73",
       "description": "Portátil MSI Thin con procesador Intel Core i5-1335U, 32GB RAM, 256GB SSD, pantalla de 14\".",
@@ -995,7 +990,7 @@
     {
       "id": 40,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus VivoBook 16FS19",
       "model": "VivoBook-16FS19",
       "description": "Portátil Asus VivoBook con procesador AMD Ryzen 9 7945HX, 64GB RAM, 512GB SSD + 1TB HDD, pantalla de 14\".",
@@ -1014,7 +1009,7 @@
     {
       "id": 41,
       "category_id": 1,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Stealth 15FN25",
       "model": "Stealth-15FN25",
       "description": "Portátil MSI Stealth con procesador Intel Core i5-1235U, 8GB RAM, 512GB SSD + 1TB HDD, pantalla de 17.3\".",
@@ -1033,7 +1028,7 @@
     {
       "id": 42,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell Latitude 15FN54",
       "model": "Latitude-15FN54",
       "description": "Portátil Dell Latitude con procesador AMD Ryzen 9 7945HX, 8GB RAM, 256GB SSD, pantalla de 17.3\".",
@@ -1090,7 +1085,7 @@
     {
       "id": 45,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP ProBook 17HM87",
       "model": "ProBook-17HM87",
       "description": "Portátil HP ProBook con procesador Intel Core i7-1355U, 8GB RAM, 256GB SSD, pantalla de 14\".",
@@ -1109,7 +1104,7 @@
     {
       "id": 46,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell G Series 15DK83",
       "model": "G Series-15DK83",
       "description": "Portátil Dell G Series con procesador AMD Ryzen 9 7845HX, 16GB RAM, 512GB SSD + 1TB HDD, pantalla de 17.3\".",
@@ -1128,7 +1123,7 @@
     {
       "id": 47,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ZenBook 16DS50",
       "model": "ZenBook-16DS50",
       "description": "Portátil Asus ZenBook con procesador AMD Ryzen 5 7640HS, 16GB RAM, 1TB SSD, pantalla de 17.3\".",
@@ -1147,7 +1142,7 @@
     {
       "id": 48,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell Inspiron 14DK32",
       "model": "Inspiron-14DK32",
       "description": "Portátil Dell Inspiron con procesador Intel Core Ultra 7 155H, 16GB RAM, 1TB SSD, pantalla de 16\".",
@@ -1204,7 +1199,7 @@
     {
       "id": 51,
       "category_id": 1,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Katana 15FL32",
       "model": "Katana-15FL32",
       "description": "Portátil MSI Katana con procesador Intel Core i9-13980HX, 64GB RAM, 2TB SSD, pantalla de 14\".",
@@ -1223,7 +1218,7 @@
     {
       "id": 52,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 15EN83",
       "model": "Yoga-15EN83",
       "description": "Portátil Lenovo Yoga con procesador Intel Core i7-1365U, 64GB RAM, 512GB SSD, pantalla de 17.3\".",
@@ -1242,7 +1237,7 @@
     {
       "id": 53,
       "category_id": 1,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Huawei MateBook 14HQ21",
       "model": "MateBook-14HQ21",
       "description": "Portátil Huawei MateBook con procesador Intel Core i3-1315U, 16GB RAM, 2TB SSD, pantalla de 15.6\".",
@@ -1261,7 +1256,7 @@
     {
       "id": 54,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Victus 17HQ49",
       "model": "Victus-17HQ49",
       "description": "Portátil HP Victus con procesador AMD Ryzen 9 7845HX, 16GB RAM, 2TB SSD, pantalla de 15.6\".",
@@ -1280,7 +1275,7 @@
     {
       "id": 55,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 14CK37",
       "model": "Yoga-14CK37",
       "description": "Portátil Lenovo Yoga con procesador AMD Ryzen 5 7520U, 8GB RAM, 256GB SSD, pantalla de 13.3\".",
@@ -1299,7 +1294,7 @@
     {
       "id": 56,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Envy 17BQ61",
       "model": "Envy-17BQ61",
       "description": "Portátil HP Envy con procesador AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD + 1TB HDD, pantalla de 17.3\".",
@@ -1356,7 +1351,7 @@
     {
       "id": 59,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ROG Strix 16EN90",
       "model": "ROG Strix-16EN90",
       "description": "Portátil Asus ROG Strix con procesador AMD Ryzen 3 7320U, 16GB RAM, 2TB SSD, pantalla de 16\".",
@@ -1394,7 +1389,7 @@
     {
       "id": 61,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Legion 15HQ60",
       "model": "Legion-15HQ60",
       "description": "Portátil Lenovo Legion con procesador AMD Ryzen 5 7535HS, 64GB RAM, 256GB SSD, pantalla de 14\".",
@@ -1413,7 +1408,7 @@
     {
       "id": 62,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell Latitude 15GR13",
       "model": "Latitude-15GR13",
       "description": "Portátil Dell Latitude con procesador AMD Ryzen 5 7530U, 64GB RAM, 2TB SSD, pantalla de 15.6\".",
@@ -1432,7 +1427,7 @@
     {
       "id": 63,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ProArt 15GR86",
       "model": "ProArt-15GR86",
       "description": "Portátil Asus ProArt con procesador AMD Ryzen 5 7640HS, 32GB RAM, 256GB SSD, pantalla de 15.6\".",
@@ -1451,7 +1446,7 @@
     {
       "id": 64,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo ThinkPad 17BL44",
       "model": "ThinkPad-17BL44",
       "description": "Portátil Lenovo ThinkPad con procesador AMD Ryzen 9 7945HX, 8GB RAM, 1TB SSD, pantalla de 15.6\".",
@@ -1470,7 +1465,7 @@
     {
       "id": 65,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell Vostro 16EL27",
       "model": "Vostro-16EL27",
       "description": "Portátil Dell Vostro con procesador Intel Core i3-1315U, 32GB RAM, 512GB SSD + 1TB HDD, pantalla de 17.3\".",
@@ -1489,7 +1484,7 @@
     {
       "id": 66,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus TUF Gaming 14BM66",
       "model": "TUF Gaming-14BM66",
       "description": "Portátil Asus TUF Gaming con procesador Intel Core i9-13900H, 32GB RAM, 256GB SSD, pantalla de 14\".",
@@ -1508,7 +1503,7 @@
     {
       "id": 67,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Victus 14FQ48",
       "model": "Victus-14FQ48",
       "description": "Portátil HP Victus con procesador Intel Core Ultra 7 155H, 8GB RAM, 512GB SSD, pantalla de 13.3\".",
@@ -1527,7 +1522,7 @@
     {
       "id": 68,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo ThinkPad 17GL40",
       "model": "ThinkPad-17GL40",
       "description": "Portátil Lenovo ThinkPad con procesador AMD Ryzen 7 7735HS, 16GB RAM, 2TB SSD, pantalla de 16\".",
@@ -1546,7 +1541,7 @@
     {
       "id": 69,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 15EL49",
       "model": "Yoga-15EL49",
       "description": "Portátil Lenovo Yoga con procesador Intel Core Ultra 5 125H, 64GB RAM, 2TB SSD, pantalla de 13.3\".",
@@ -1565,7 +1560,7 @@
     {
       "id": 70,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo ThinkPad 16AS82",
       "model": "ThinkPad-16AS82",
       "description": "Portátil Lenovo ThinkPad con procesador Intel Core i9-13900H, 8GB RAM, 1TB SSD, pantalla de 17.3\".",
@@ -1584,7 +1579,7 @@
     {
       "id": 71,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 16FL80",
       "model": "Yoga-16FL80",
       "description": "Portátil Lenovo Yoga con procesador Intel Core i5-13500H, 8GB RAM, 2TB SSD, pantalla de 14\".",
@@ -1622,7 +1617,7 @@
     {
       "id": 73,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Envy 15HP69",
       "model": "Envy-15HP69",
       "description": "Portátil HP Envy con procesador Intel Core i5-1340P, 64GB RAM, 2TB SSD, pantalla de 16\".",
@@ -1660,7 +1655,7 @@
     {
       "id": 75,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell Latitude 16HR80",
       "model": "Latitude-16HR80",
       "description": "Portátil Dell Latitude con procesador Intel Core i7-13700H, 16GB RAM, 256GB SSD, pantalla de 17.3\".",
@@ -1679,7 +1674,7 @@
     {
       "id": 76,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ROG Strix 15DP78",
       "model": "ROG Strix-15DP78",
       "description": "Portátil Asus ROG Strix con procesador Intel Core i3-1315U, 32GB RAM, 512GB SSD + 1TB HDD, pantalla de 15.6\".",
@@ -1717,7 +1712,7 @@
     {
       "id": 78,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus TUF Gaming 15BS28",
       "model": "TUF Gaming-15BS28",
       "description": "Portátil Asus TUF Gaming con procesador Intel Core i5-1340P, 64GB RAM, 512GB SSD + 1TB HDD, pantalla de 14\".",
@@ -1755,7 +1750,7 @@
     {
       "id": 80,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ZenBook 15AQ10",
       "model": "ZenBook-15AQ10",
       "description": "Portátil Asus ZenBook con procesador AMD Ryzen 7 7735HS, 16GB RAM, 256GB SSD, pantalla de 14\".",
@@ -1774,7 +1769,7 @@
     {
       "id": 81,
       "category_id": 1,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Katana 17DS48",
       "model": "Katana-17DS48",
       "description": "Portátil MSI Katana con procesador AMD Ryzen 9 7945HX, 8GB RAM, 2TB SSD, pantalla de 17.3\".",
@@ -1793,7 +1788,7 @@
     {
       "id": 82,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Envy 17AM45",
       "model": "Envy-17AM45",
       "description": "Portátil HP Envy con procesador Intel Core i5-1335U, 32GB RAM, 2TB SSD, pantalla de 16\".",
@@ -1850,7 +1845,7 @@
     {
       "id": 85,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo IdeaPad 16FP43",
       "model": "IdeaPad-16FP43",
       "description": "Portátil Lenovo IdeaPad con procesador AMD Ryzen 5 7520U, 32GB RAM, 1TB SSD, pantalla de 14\".",
@@ -1869,7 +1864,7 @@
     {
       "id": 86,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell G Series 15EM97",
       "model": "G Series-15EM97",
       "description": "Portátil Dell G Series con procesador AMD Ryzen 7 7735HS, 32GB RAM, 512GB SSD, pantalla de 17.3\".",
@@ -1888,7 +1883,7 @@
     {
       "id": 87,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Victus 15DQ62",
       "model": "Victus-15DQ62",
       "description": "Portátil HP Victus con procesador AMD Ryzen 7 7735HS, 32GB RAM, 2TB SSD, pantalla de 14\".",
@@ -1907,7 +1902,7 @@
     {
       "id": 88,
       "category_id": 1,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Huawei MateBook D 15AK90",
       "model": "MateBook D-15AK90",
       "description": "Portátil Huawei MateBook D con procesador Intel Core Ultra 5 125H, 16GB RAM, 1TB SSD, pantalla de 14\".",
@@ -1926,7 +1921,7 @@
     {
       "id": 89,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Legion 14BR66",
       "model": "Legion-14BR66",
       "description": "Portátil Lenovo Legion con procesador Intel Core Ultra 5 125H, 8GB RAM, 512GB SSD + 1TB HDD, pantalla de 14\".",
@@ -1945,7 +1940,7 @@
     {
       "id": 90,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ZenBook 17FN10",
       "model": "ZenBook-17FN10",
       "description": "Portátil Asus ZenBook con procesador AMD Ryzen 5 7520U, 64GB RAM, 1TB SSD, pantalla de 15.6\".",
@@ -1964,7 +1959,7 @@
     {
       "id": 91,
       "category_id": 1,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Huawei MateBook D 17HM88",
       "model": "MateBook D-17HM88",
       "description": "Portátil Huawei MateBook D con procesador Intel Core Ultra 7 155H, 16GB RAM, 256GB SSD, pantalla de 15.6\".",
@@ -1983,7 +1978,7 @@
     {
       "id": 92,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 16DQ45",
       "model": "Yoga-16DQ45",
       "description": "Portátil Lenovo Yoga con procesador Intel Core i3-1215U, 64GB RAM, 2TB SSD, pantalla de 15.6\".",
@@ -2002,7 +1997,7 @@
     {
       "id": 93,
       "category_id": 1,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Huawei MateBook D 16FL15",
       "model": "MateBook D-16FL15",
       "description": "Portátil Huawei MateBook D con procesador AMD Ryzen 7 7840HS, 8GB RAM, 256GB SSD, pantalla de 15.6\".",
@@ -2021,7 +2016,7 @@
     {
       "id": 94,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Victus 17HM98",
       "model": "Victus-17HM98",
       "description": "Portátil HP Victus con procesador AMD Ryzen 9 7945HX, 16GB RAM, 2TB SSD, pantalla de 14\".",
@@ -2040,7 +2035,7 @@
     {
       "id": 95,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Omen 16FM93",
       "model": "Omen-16FM93",
       "description": "Portátil HP Omen con procesador Intel Core Ultra 7 155H, 32GB RAM, 512GB SSD + 1TB HDD, pantalla de 15.6\".",
@@ -2059,7 +2054,7 @@
     {
       "id": 96,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell G Series 14AP35",
       "model": "G Series-14AP35",
       "description": "Portátil Dell G Series con procesador AMD Ryzen 9 7845HX, 32GB RAM, 256GB SSD, pantalla de 13.3\".",
@@ -2097,7 +2092,7 @@
     {
       "id": 98,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book Pro 14CK90",
       "model": "Galaxy Book Pro-14CK90",
       "description": "Portátil Samsung Galaxy Book Pro con procesador AMD Ryzen 5 7520U, 8GB RAM, 1TB SSD, pantalla de 15.6\".",
@@ -2116,7 +2111,7 @@
     {
       "id": 99,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Legion 17GK70",
       "model": "Legion-17GK70",
       "description": "Portátil Lenovo Legion con procesador AMD Ryzen 7 7840HS, 8GB RAM, 1TB SSD, pantalla de 16\".",
@@ -2135,7 +2130,7 @@
     {
       "id": 100,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Pavilion 16DL33",
       "model": "Pavilion-16DL33",
       "description": "Portátil HP Pavilion con procesador Intel Core i7-13650HX, 16GB RAM, 2TB SSD, pantalla de 17.3\".",
@@ -2154,7 +2149,7 @@
     {
       "id": 101,
       "category_id": 1,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Huawei MateBook 16CN43",
       "model": "MateBook-16CN43",
       "description": "Portátil Huawei MateBook con procesador Intel Core Ultra 9 185H, 64GB RAM, 512GB SSD + 1TB HDD, pantalla de 14\".",
@@ -2173,7 +2168,7 @@
     {
       "id": 102,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus TUF Gaming 15CS30",
       "model": "TUF Gaming-15CS30",
       "description": "Portátil Asus TUF Gaming con procesador Intel Core i5-1340P, 8GB RAM, 2TB SSD, pantalla de 16\".",
@@ -2192,7 +2187,7 @@
     {
       "id": 103,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo LOQ 17HK74",
       "model": "LOQ-17HK74",
       "description": "Portátil Lenovo LOQ con procesador AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD + 1TB HDD, pantalla de 13.3\".",
@@ -2211,7 +2206,7 @@
     {
       "id": 104,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book Pro 14EL37",
       "model": "Galaxy Book Pro-14EL37",
       "description": "Portátil Samsung Galaxy Book Pro con procesador Intel Core i3-1315U, 16GB RAM, 1TB SSD, pantalla de 15.6\".",
@@ -2230,7 +2225,7 @@
     {
       "id": 105,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo IdeaPad 15HR54",
       "model": "IdeaPad-15HR54",
       "description": "Portátil Lenovo IdeaPad con procesador AMD Ryzen 9 7945HX, 64GB RAM, 1TB SSD, pantalla de 14\".",
@@ -2268,7 +2263,7 @@
     {
       "id": 107,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 14BP38",
       "model": "Yoga-14BP38",
       "description": "Portátil Lenovo Yoga con procesador Intel Core i5-13500H, 8GB RAM, 512GB SSD, pantalla de 13.3\".",
@@ -2287,7 +2282,7 @@
     {
       "id": 108,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell G Series 16GQ95",
       "model": "G Series-16GQ95",
       "description": "Portátil Dell G Series con procesador AMD Ryzen 5 7640HS, 32GB RAM, 512GB SSD, pantalla de 14\".",
@@ -2306,7 +2301,7 @@
     {
       "id": 109,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ZenBook 17AS24",
       "model": "ZenBook-17AS24",
       "description": "Portátil Asus ZenBook con procesador AMD Ryzen 7 7840HS, 64GB RAM, 512GB SSD, pantalla de 16\".",
@@ -2325,7 +2320,7 @@
     {
       "id": 110,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Envy 16HP72",
       "model": "Envy-16HP72",
       "description": "Portátil HP Envy con procesador Intel Core i5-1335U, 8GB RAM, 512GB SSD + 1TB HDD, pantalla de 14\".",
@@ -2344,7 +2339,7 @@
     {
       "id": 111,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus VivoBook 16GP67",
       "model": "VivoBook-16GP67",
       "description": "Portátil Asus VivoBook con procesador Intel Core i7-13700H, 32GB RAM, 512GB SSD, pantalla de 13.3\".",
@@ -2363,7 +2358,7 @@
     {
       "id": 112,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell XPS 14GP69",
       "model": "XPS-14GP69",
       "description": "Portátil Dell XPS con procesador AMD Ryzen 5 7535HS, 32GB RAM, 1TB SSD, pantalla de 17.3\".",
@@ -2401,7 +2396,7 @@
     {
       "id": 114,
       "category_id": 1,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Huawei MateBook 17EQ62",
       "model": "MateBook-17EQ62",
       "description": "Portátil Huawei MateBook con procesador AMD Ryzen 7 7730U, 32GB RAM, 1TB SSD, pantalla de 13.3\".",
@@ -2420,7 +2415,7 @@
     {
       "id": 115,
       "category_id": 1,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Thin 16EP62",
       "model": "Thin-16EP62",
       "description": "Portátil MSI Thin con procesador Intel Core Ultra 5 125H, 64GB RAM, 2TB SSD, pantalla de 15.6\".",
@@ -2458,7 +2453,7 @@
     {
       "id": 117,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell Inspiron 16AN24",
       "model": "Inspiron-16AN24",
       "description": "Portátil Dell Inspiron con procesador AMD Ryzen 7 7730U, 8GB RAM, 1TB SSD, pantalla de 13.3\".",
@@ -2477,7 +2472,7 @@
     {
       "id": 118,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book 16CP15",
       "model": "Galaxy Book-16CP15",
       "description": "Portátil Samsung Galaxy Book con procesador Intel Core i7-1365U, 32GB RAM, 2TB SSD, pantalla de 15.6\".",
@@ -2496,7 +2491,7 @@
     {
       "id": 119,
       "category_id": 1,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Galaxy Book 14CM14",
       "model": "Galaxy Book-14CM14",
       "description": "Portátil Samsung Galaxy Book con procesador AMD Ryzen 9 7945HX, 32GB RAM, 2TB SSD, pantalla de 16\".",
@@ -2515,7 +2510,7 @@
     {
       "id": 120,
       "category_id": 1,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Lenovo Yoga 14BN78",
       "model": "Yoga-14BN78",
       "description": "Portátil Lenovo Yoga con procesador AMD Ryzen 5 7640HS, 8GB RAM, 256GB SSD, pantalla de 16\".",
@@ -2534,7 +2529,7 @@
     {
       "id": 121,
       "category_id": 1,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell Vostro 14CP10",
       "model": "Vostro-14CP10",
       "description": "Portátil Dell Vostro con procesador Intel Core Ultra 5 125H, 64GB RAM, 2TB SSD, pantalla de 13.3\".",
@@ -2572,7 +2567,7 @@
     {
       "id": 123,
       "category_id": 1,
-      "brand_id": 12,
+      "brand_id": 11,
       "name": "HP Pavilion 15CS81",
       "model": "Pavilion-15CS81",
       "description": "Portátil HP Pavilion con procesador AMD Ryzen 3 7320U, 64GB RAM, 1TB SSD, pantalla de 14\".",
@@ -2610,7 +2605,7 @@
     {
       "id": 125,
       "category_id": 1,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ROG Strix 14FS86",
       "model": "ROG Strix-14FS86",
       "description": "Portátil Asus ROG Strix con procesador AMD Ryzen 7 7735HS, 8GB RAM, 1TB SSD, pantalla de 13.3\".",
@@ -2629,7 +2624,7 @@
     {
       "id": 126,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy A05 8GB/128GB - Azul",
       "model": "Galaxy A05",
       "description": "Smartphone Galaxy A05 con 8GB RAM, 128GB, cámara de 64MP, pantalla 6.4\", batería de 5000mAh.",
@@ -2649,7 +2644,7 @@
     {
       "id": 127,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus 12 16GB/1TB - Gris",
       "model": "OnePlus 12",
       "description": "Smartphone OnePlus 12 con 16GB RAM, 1TB, cámara de 48MP, pantalla 6.8\", batería de 4000mAh.",
@@ -2669,7 +2664,7 @@
     {
       "id": 128,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Xiaomi 14 16GB/512GB - Morado",
       "model": "Xiaomi 14",
       "description": "Smartphone Xiaomi 14 con 16GB RAM, 512GB, cámara de 64MP, pantalla 6.8\", batería de 5000mAh.",
@@ -2689,7 +2684,7 @@
     {
       "id": 129,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A79 16GB/64GB - Rojo",
       "model": "A79",
       "description": "Smartphone A79 con 16GB RAM, 64GB, cámara de 48MP, pantalla 6.8\", batería de 6000mAh.",
@@ -2709,7 +2704,7 @@
     {
       "id": 130,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme C67 4GB/1TB - Azul",
       "model": "Realme C67",
       "description": "Smartphone Realme C67 con 4GB RAM, 1TB, cámara de 200MP, pantalla 6.8\", batería de 5500mAh.",
@@ -2729,7 +2724,7 @@
     {
       "id": 131,
       "category_id": 2,
-      "brand_id": 22,
+      "brand_id": 21,
       "name": "Moto G84 6GB/128GB - Azul",
       "model": "Moto G84",
       "description": "Smartphone Moto G84 con 6GB RAM, 128GB, cámara de 12MP, pantalla 6.1\", batería de 5000mAh.",
@@ -2749,7 +2744,7 @@
     {
       "id": 132,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor 200 12GB/1TB - Gris",
       "model": "Honor 200",
       "description": "Smartphone Honor 200 con 12GB RAM, 1TB, cámara de 64MP, pantalla 7.6\", batería de 5000mAh.",
@@ -2769,7 +2764,7 @@
     {
       "id": 133,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "Find X7 16GB/64GB - Gris",
       "model": "Find X7",
       "description": "Smartphone Find X7 con 16GB RAM, 64GB, cámara de 48MP, pantalla 7.6\", batería de 4500mAh.",
@@ -2789,7 +2784,7 @@
     {
       "id": 134,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "POCO F6 6GB/1TB - Gris",
       "model": "POCO F6",
       "description": "Smartphone POCO F6 con 6GB RAM, 1TB, cámara de 200MP, pantalla 6.1\", batería de 5000mAh.",
@@ -2809,7 +2804,7 @@
     {
       "id": 135,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor 200 Pro 6GB/64GB - Blanco",
       "model": "Honor 200 Pro",
       "description": "Smartphone Honor 200 Pro con 6GB RAM, 64GB, cámara de 200MP, pantalla 6.67\", batería de 5500mAh.",
@@ -2829,7 +2824,7 @@
     {
       "id": 136,
       "category_id": 2,
-      "brand_id": 22,
+      "brand_id": 21,
       "name": "Moto Edge 40 Pro 16GB/256GB - Verde",
       "model": "Moto Edge 40 Pro",
       "description": "Smartphone Moto Edge 40 Pro con 16GB RAM, 256GB, cámara de 200MP, pantalla 6.5\", batería de 4500mAh.",
@@ -2849,7 +2844,7 @@
     {
       "id": 137,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus Nord CE 4 12GB/512GB - Blanco",
       "model": "OnePlus Nord CE 4",
       "description": "Smartphone OnePlus Nord CE 4 con 12GB RAM, 512GB, cámara de 64MP, pantalla 6.1\", batería de 4000mAh.",
@@ -2869,7 +2864,7 @@
     {
       "id": 138,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme 12 Pro 8GB/512GB - Dorado",
       "model": "Realme 12 Pro",
       "description": "Smartphone Realme 12 Pro con 8GB RAM, 512GB, cámara de 12MP, pantalla 6.1\", batería de 6000mAh.",
@@ -2889,7 +2884,7 @@
     {
       "id": 139,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus 12 4GB/1TB - Verde",
       "model": "OnePlus 12",
       "description": "Smartphone OnePlus 12 con 4GB RAM, 1TB, cámara de 12MP, pantalla 7.6\", batería de 5000mAh.",
@@ -2909,7 +2904,7 @@
     {
       "id": 140,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A58 16GB/512GB - Dorado",
       "model": "A58",
       "description": "Smartphone A58 con 16GB RAM, 512GB, cámara de 64MP, pantalla 6.7\", batería de 4500mAh.",
@@ -2949,7 +2944,7 @@
     {
       "id": 142,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor 200 8GB/64GB - Rojo",
       "model": "Honor 200",
       "description": "Smartphone Honor 200 con 8GB RAM, 64GB, cámara de 48MP, pantalla 6.4\", batería de 6000mAh.",
@@ -2969,7 +2964,7 @@
     {
       "id": 143,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova Y91 8GB/256GB - Dorado",
       "model": "Nova Y91",
       "description": "Smartphone Nova Y91 con 8GB RAM, 256GB, cámara de 50MP, pantalla 7.6\", batería de 4000mAh.",
@@ -3009,7 +3004,7 @@
     {
       "id": 145,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme 12 Pro+ 12GB/128GB - Dorado",
       "model": "Realme 12 Pro+",
       "description": "Smartphone Realme 12 Pro+ con 12GB RAM, 128GB, cámara de 12MP, pantalla 6.8\", batería de 4000mAh.",
@@ -3049,7 +3044,7 @@
     {
       "id": 147,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor 200 Pro 16GB/128GB - Azul",
       "model": "Honor 200 Pro",
       "description": "Smartphone Honor 200 Pro con 16GB RAM, 128GB, cámara de 200MP, pantalla 6.1\", batería de 4000mAh.",
@@ -3089,7 +3084,7 @@
     {
       "id": 149,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi 13C 6GB/256GB - Morado",
       "model": "Redmi 13C",
       "description": "Smartphone Redmi 13C con 6GB RAM, 256GB, cámara de 64MP, pantalla 6.7\", batería de 5500mAh.",
@@ -3109,7 +3104,7 @@
     {
       "id": 150,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Note 13 Pro+ 4GB/64GB - Morado",
       "model": "Redmi Note 13 Pro+",
       "description": "Smartphone Redmi Note 13 Pro+ con 4GB RAM, 64GB, cámara de 50MP, pantalla 6.8\", batería de 5000mAh.",
@@ -3129,7 +3124,7 @@
     {
       "id": 151,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "Reno 11 Pro 12GB/128GB - Rojo",
       "model": "Reno 11 Pro",
       "description": "Smartphone Reno 11 Pro con 12GB RAM, 128GB, cámara de 108MP, pantalla 6.1\", batería de 5500mAh.",
@@ -3149,7 +3144,7 @@
     {
       "id": 152,
       "category_id": 2,
-      "brand_id": 22,
+      "brand_id": 21,
       "name": "Moto G54 12GB/1TB - Rojo",
       "model": "Moto G54",
       "description": "Smartphone Moto G54 con 12GB RAM, 1TB, cámara de 108MP, pantalla 6.67\", batería de 4500mAh.",
@@ -3169,7 +3164,7 @@
     {
       "id": 153,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova 12 Pro 4GB/64GB - Rojo",
       "model": "Nova 12 Pro",
       "description": "Smartphone Nova 12 Pro con 4GB RAM, 64GB, cámara de 48MP, pantalla 6.67\", batería de 5000mAh.",
@@ -3189,7 +3184,7 @@
     {
       "id": 154,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor 200 16GB/128GB - Blanco",
       "model": "Honor 200",
       "description": "Smartphone Honor 200 con 16GB RAM, 128GB, cámara de 48MP, pantalla 6.4\", batería de 5000mAh.",
@@ -3229,7 +3224,7 @@
     {
       "id": 156,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (2) 8GB/128GB - Rojo",
       "model": "Phone (2)",
       "description": "Smartphone Phone (2) con 8GB RAM, 128GB, cámara de 48MP, pantalla 7.6\", batería de 5000mAh.",
@@ -3249,7 +3244,7 @@
     {
       "id": 157,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "GT 5 Pro 6GB/1TB - Dorado",
       "model": "GT 5 Pro",
       "description": "Smartphone GT 5 Pro con 6GB RAM, 1TB, cámara de 12MP, pantalla 6.5\", batería de 4000mAh.",
@@ -3269,7 +3264,7 @@
     {
       "id": 158,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme C67 4GB/512GB - Blanco",
       "model": "Realme C67",
       "description": "Smartphone Realme C67 con 4GB RAM, 512GB, cámara de 200MP, pantalla 6.1\", batería de 4500mAh.",
@@ -3289,7 +3284,7 @@
     {
       "id": 159,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy A55 8GB/256GB - Blanco",
       "model": "Galaxy A55",
       "description": "Smartphone Galaxy A55 con 8GB RAM, 256GB, cámara de 108MP, pantalla 6.5\", batería de 5500mAh.",
@@ -3309,7 +3304,7 @@
     {
       "id": 160,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A79 16GB/512GB - Verde",
       "model": "A79",
       "description": "Smartphone A79 con 16GB RAM, 512GB, cámara de 108MP, pantalla 6.1\", batería de 5000mAh.",
@@ -3329,7 +3324,7 @@
     {
       "id": 161,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (2) 6GB/256GB - Azul",
       "model": "Phone (2)",
       "description": "Smartphone Phone (2) con 6GB RAM, 256GB, cámara de 50MP, pantalla 6.67\", batería de 4500mAh.",
@@ -3349,7 +3344,7 @@
     {
       "id": 162,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus 12R 4GB/128GB - Rojo",
       "model": "OnePlus 12R",
       "description": "Smartphone OnePlus 12R con 4GB RAM, 128GB, cámara de 50MP, pantalla 6.7\", batería de 5000mAh.",
@@ -3369,7 +3364,7 @@
     {
       "id": 163,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor X8b 6GB/256GB - Azul",
       "model": "Honor X8b",
       "description": "Smartphone Honor X8b con 6GB RAM, 256GB, cámara de 48MP, pantalla 6.1\", batería de 4000mAh.",
@@ -3389,7 +3384,7 @@
     {
       "id": 164,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Z Fold5 4GB/64GB - Morado",
       "model": "Galaxy Z Fold5",
       "description": "Smartphone Galaxy Z Fold5 con 4GB RAM, 64GB, cámara de 108MP, pantalla 6.7\", batería de 4500mAh.",
@@ -3409,7 +3404,7 @@
     {
       "id": 165,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus Nord N30 12GB/128GB - Blanco",
       "model": "OnePlus Nord N30",
       "description": "Smartphone OnePlus Nord N30 con 12GB RAM, 128GB, cámara de 64MP, pantalla 6.7\", batería de 4500mAh.",
@@ -3449,7 +3444,7 @@
     {
       "id": 167,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "POCO F6 16GB/256GB - Blanco",
       "model": "POCO F6",
       "description": "Smartphone POCO F6 con 16GB RAM, 256GB, cámara de 108MP, pantalla 6.4\", batería de 5000mAh.",
@@ -3469,7 +3464,7 @@
     {
       "id": 168,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "POCO X6 12GB/512GB - Rojo",
       "model": "POCO X6",
       "description": "Smartphone POCO X6 con 12GB RAM, 512GB, cámara de 108MP, pantalla 7.6\", batería de 4000mAh.",
@@ -3489,7 +3484,7 @@
     {
       "id": 169,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova 12 8GB/128GB - Negro",
       "model": "Nova 12",
       "description": "Smartphone Nova 12 con 8GB RAM, 128GB, cámara de 50MP, pantalla 6.1\", batería de 6000mAh.",
@@ -3509,7 +3504,7 @@
     {
       "id": 170,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (2a) 8GB/512GB - Blanco",
       "model": "Phone (2a)",
       "description": "Smartphone Phone (2a) con 8GB RAM, 512GB, cámara de 200MP, pantalla 6.4\", batería de 5500mAh.",
@@ -3529,7 +3524,7 @@
     {
       "id": 171,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor 200 Pro 4GB/1TB - Rojo",
       "model": "Honor 200 Pro",
       "description": "Smartphone Honor 200 Pro con 4GB RAM, 1TB, cámara de 108MP, pantalla 7.6\", batería de 4500mAh.",
@@ -3549,7 +3544,7 @@
     {
       "id": 172,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor X7b 12GB/64GB - Azul",
       "model": "Honor X7b",
       "description": "Smartphone Honor X7b con 12GB RAM, 64GB, cámara de 50MP, pantalla 6.4\", batería de 4500mAh.",
@@ -3569,7 +3564,7 @@
     {
       "id": 173,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi 13C 8GB/512GB - Negro",
       "model": "Redmi 13C",
       "description": "Smartphone Redmi 13C con 8GB RAM, 512GB, cámara de 108MP, pantalla 6.67\", batería de 5000mAh.",
@@ -3589,7 +3584,7 @@
     {
       "id": 174,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A79 8GB/64GB - Morado",
       "model": "A79",
       "description": "Smartphone A79 con 8GB RAM, 64GB, cámara de 50MP, pantalla 7.6\", batería de 4500mAh.",
@@ -3609,7 +3604,7 @@
     {
       "id": 175,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus Nord N30 4GB/64GB - Rojo",
       "model": "OnePlus Nord N30",
       "description": "Smartphone OnePlus Nord N30 con 4GB RAM, 64GB, cámara de 200MP, pantalla 6.8\", batería de 4500mAh.",
@@ -3649,7 +3644,7 @@
     {
       "id": 177,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Pura 70 Pro 6GB/512GB - Negro",
       "model": "Pura 70 Pro",
       "description": "Smartphone Pura 70 Pro con 6GB RAM, 512GB, cámara de 48MP, pantalla 6.4\", batería de 5500mAh.",
@@ -3669,7 +3664,7 @@
     {
       "id": 178,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (1) 4GB/64GB - Dorado",
       "model": "Phone (1)",
       "description": "Smartphone Phone (1) con 4GB RAM, 64GB, cámara de 108MP, pantalla 6.5\", batería de 6000mAh.",
@@ -3689,7 +3684,7 @@
     {
       "id": 179,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy S23 FE 6GB/64GB - Rojo",
       "model": "Galaxy S23 FE",
       "description": "Smartphone Galaxy S23 FE con 6GB RAM, 64GB, cámara de 48MP, pantalla 6.67\", batería de 5000mAh.",
@@ -3709,7 +3704,7 @@
     {
       "id": 180,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Pura 70 Pro 4GB/512GB - Gris",
       "model": "Pura 70 Pro",
       "description": "Smartphone Pura 70 Pro con 4GB RAM, 512GB, cámara de 12MP, pantalla 6.5\", batería de 6000mAh.",
@@ -3729,7 +3724,7 @@
     {
       "id": 181,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Note 13 Pro 8GB/512GB - Verde",
       "model": "Redmi Note 13 Pro",
       "description": "Smartphone Redmi Note 13 Pro con 8GB RAM, 512GB, cámara de 200MP, pantalla 7.6\", batería de 5500mAh.",
@@ -3749,7 +3744,7 @@
     {
       "id": 182,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor 200 8GB/512GB - Verde",
       "model": "Honor 200",
       "description": "Smartphone Honor 200 con 8GB RAM, 512GB, cámara de 64MP, pantalla 6.67\", batería de 4000mAh.",
@@ -3769,7 +3764,7 @@
     {
       "id": 183,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus 12R 6GB/128GB - Blanco",
       "model": "OnePlus 12R",
       "description": "Smartphone OnePlus 12R con 6GB RAM, 128GB, cámara de 50MP, pantalla 6.1\", batería de 6000mAh.",
@@ -3789,7 +3784,7 @@
     {
       "id": 184,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy S23 FE 4GB/64GB - Morado",
       "model": "Galaxy S23 FE",
       "description": "Smartphone Galaxy S23 FE con 4GB RAM, 64GB, cámara de 12MP, pantalla 6.8\", batería de 4500mAh.",
@@ -3809,7 +3804,7 @@
     {
       "id": 185,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "GT 5 Pro 16GB/1TB - Negro",
       "model": "GT 5 Pro",
       "description": "Smartphone GT 5 Pro con 16GB RAM, 1TB, cámara de 48MP, pantalla 6.8\", batería de 5500mAh.",
@@ -3829,7 +3824,7 @@
     {
       "id": 186,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme 12 Pro 8GB/512GB - Azul",
       "model": "Realme 12 Pro",
       "description": "Smartphone Realme 12 Pro con 8GB RAM, 512GB, cámara de 64MP, pantalla 6.67\", batería de 5000mAh.",
@@ -3849,7 +3844,7 @@
     {
       "id": 187,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova Y91 8GB/64GB - Azul",
       "model": "Nova Y91",
       "description": "Smartphone Nova Y91 con 8GB RAM, 64GB, cámara de 50MP, pantalla 7.6\", batería de 6000mAh.",
@@ -3869,7 +3864,7 @@
     {
       "id": 188,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A79 6GB/128GB - Morado",
       "model": "A79",
       "description": "Smartphone A79 con 6GB RAM, 128GB, cámara de 64MP, pantalla 7.6\", batería de 6000mAh.",
@@ -3889,7 +3884,7 @@
     {
       "id": 189,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "POCO F6 12GB/128GB - Rojo",
       "model": "POCO F6",
       "description": "Smartphone POCO F6 con 12GB RAM, 128GB, cámara de 108MP, pantalla 6.7\", batería de 6000mAh.",
@@ -3909,7 +3904,7 @@
     {
       "id": 190,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Pura 70 Pro 12GB/1TB - Verde",
       "model": "Pura 70 Pro",
       "description": "Smartphone Pura 70 Pro con 12GB RAM, 1TB, cámara de 50MP, pantalla 6.1\", batería de 4000mAh.",
@@ -3929,7 +3924,7 @@
     {
       "id": 191,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A58 4GB/64GB - Rojo",
       "model": "A58",
       "description": "Smartphone A58 con 4GB RAM, 64GB, cámara de 48MP, pantalla 6.1\", batería de 5500mAh.",
@@ -3969,7 +3964,7 @@
     {
       "id": 193,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (2) 6GB/1TB - Rojo",
       "model": "Phone (2)",
       "description": "Smartphone Phone (2) con 6GB RAM, 1TB, cámara de 64MP, pantalla 6.8\", batería de 5500mAh.",
@@ -4009,7 +4004,7 @@
     {
       "id": 195,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus 12R 12GB/256GB - Negro",
       "model": "OnePlus 12R",
       "description": "Smartphone OnePlus 12R con 12GB RAM, 256GB, cámara de 12MP, pantalla 6.5\", batería de 5500mAh.",
@@ -4029,7 +4024,7 @@
     {
       "id": 196,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor X7b 4GB/64GB - Verde",
       "model": "Honor X7b",
       "description": "Smartphone Honor X7b con 4GB RAM, 64GB, cámara de 108MP, pantalla 7.6\", batería de 5500mAh.",
@@ -4049,7 +4044,7 @@
     {
       "id": 197,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Note 13 16GB/512GB - Azul",
       "model": "Redmi Note 13",
       "description": "Smartphone Redmi Note 13 con 16GB RAM, 512GB, cámara de 200MP, pantalla 6.1\", batería de 4000mAh.",
@@ -4069,7 +4064,7 @@
     {
       "id": 198,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy S24+ 12GB/256GB - Morado",
       "model": "Galaxy S24+",
       "description": "Smartphone Galaxy S24+ con 12GB RAM, 256GB, cámara de 12MP, pantalla 6.4\", batería de 5500mAh.",
@@ -4089,7 +4084,7 @@
     {
       "id": 199,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (1) 12GB/128GB - Azul",
       "model": "Phone (1)",
       "description": "Smartphone Phone (1) con 12GB RAM, 128GB, cámara de 200MP, pantalla 6.7\", batería de 4500mAh.",
@@ -4109,7 +4104,7 @@
     {
       "id": 200,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A79 4GB/1TB - Negro",
       "model": "A79",
       "description": "Smartphone A79 con 4GB RAM, 1TB, cámara de 50MP, pantalla 6.67\", batería de 5500mAh.",
@@ -4129,7 +4124,7 @@
     {
       "id": 201,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme 12 Pro+ 12GB/1TB - Negro",
       "model": "Realme 12 Pro+",
       "description": "Smartphone Realme 12 Pro+ con 12GB RAM, 1TB, cámara de 12MP, pantalla 6.1\", batería de 4000mAh.",
@@ -4149,7 +4144,7 @@
     {
       "id": 202,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova Y91 12GB/512GB - Azul",
       "model": "Nova Y91",
       "description": "Smartphone Nova Y91 con 12GB RAM, 512GB, cámara de 64MP, pantalla 6.8\", batería de 6000mAh.",
@@ -4169,7 +4164,7 @@
     {
       "id": 203,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus 12R 12GB/512GB - Gris",
       "model": "OnePlus 12R",
       "description": "Smartphone OnePlus 12R con 12GB RAM, 512GB, cámara de 108MP, pantalla 6.7\", batería de 5000mAh.",
@@ -4189,7 +4184,7 @@
     {
       "id": 204,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova Y72 6GB/1TB - Negro",
       "model": "Nova Y72",
       "description": "Smartphone Nova Y72 con 6GB RAM, 1TB, cámara de 12MP, pantalla 7.6\", batería de 5000mAh.",
@@ -4209,7 +4204,7 @@
     {
       "id": 205,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (1) 6GB/1TB - Morado",
       "model": "Phone (1)",
       "description": "Smartphone Phone (1) con 6GB RAM, 1TB, cámara de 50MP, pantalla 6.5\", batería de 4500mAh.",
@@ -4249,7 +4244,7 @@
     {
       "id": 207,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Pura 70 Pro 8GB/128GB - Verde",
       "model": "Pura 70 Pro",
       "description": "Smartphone Pura 70 Pro con 8GB RAM, 128GB, cámara de 48MP, pantalla 6.8\", batería de 6000mAh.",
@@ -4269,7 +4264,7 @@
     {
       "id": 208,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus Nord N30 12GB/128GB - Dorado",
       "model": "OnePlus Nord N30",
       "description": "Smartphone OnePlus Nord N30 con 12GB RAM, 128GB, cámara de 108MP, pantalla 6.67\", batería de 4000mAh.",
@@ -4289,7 +4284,7 @@
     {
       "id": 209,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A58 6GB/64GB - Rojo",
       "model": "A58",
       "description": "Smartphone A58 con 6GB RAM, 64GB, cámara de 64MP, pantalla 6.4\", batería de 6000mAh.",
@@ -4309,7 +4304,7 @@
     {
       "id": 210,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (1) 12GB/512GB - Blanco",
       "model": "Phone (1)",
       "description": "Smartphone Phone (1) con 12GB RAM, 512GB, cámara de 200MP, pantalla 6.67\", batería de 4500mAh.",
@@ -4329,7 +4324,7 @@
     {
       "id": 211,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "Reno 11 Pro 12GB/64GB - Azul",
       "model": "Reno 11 Pro",
       "description": "Smartphone Reno 11 Pro con 12GB RAM, 64GB, cámara de 12MP, pantalla 6.1\", batería de 5000mAh.",
@@ -4349,7 +4344,7 @@
     {
       "id": 212,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy M35 8GB/128GB - Morado",
       "model": "Galaxy M35",
       "description": "Smartphone Galaxy M35 con 8GB RAM, 128GB, cámara de 48MP, pantalla 6.67\", batería de 5000mAh.",
@@ -4369,7 +4364,7 @@
     {
       "id": 213,
       "category_id": 2,
-      "brand_id": 22,
+      "brand_id": 21,
       "name": "Moto G14 16GB/512GB - Morado",
       "model": "Moto G14",
       "description": "Smartphone Moto G14 con 16GB RAM, 512GB, cámara de 48MP, pantalla 6.67\", batería de 4000mAh.",
@@ -4389,7 +4384,7 @@
     {
       "id": 214,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "Reno 11 Pro 8GB/128GB - Rojo",
       "model": "Reno 11 Pro",
       "description": "Smartphone Reno 11 Pro con 8GB RAM, 128GB, cámara de 200MP, pantalla 6.8\", batería de 5000mAh.",
@@ -4409,7 +4404,7 @@
     {
       "id": 215,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A79 4GB/128GB - Morado",
       "model": "A79",
       "description": "Smartphone A79 con 4GB RAM, 128GB, cámara de 50MP, pantalla 7.6\", batería de 5000mAh.",
@@ -4429,7 +4424,7 @@
     {
       "id": 216,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme 12 Pro 8GB/512GB - Dorado",
       "model": "Realme 12 Pro",
       "description": "Smartphone Realme 12 Pro con 8GB RAM, 512GB, cámara de 64MP, pantalla 6.1\", batería de 5000mAh.",
@@ -4449,7 +4444,7 @@
     {
       "id": 217,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme C67 16GB/64GB - Dorado",
       "model": "Realme C67",
       "description": "Smartphone Realme C67 con 16GB RAM, 64GB, cámara de 12MP, pantalla 6.67\", batería de 4000mAh.",
@@ -4469,7 +4464,7 @@
     {
       "id": 218,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "Reno 11 4GB/1TB - Verde",
       "model": "Reno 11",
       "description": "Smartphone Reno 11 con 4GB RAM, 1TB, cámara de 48MP, pantalla 7.6\", batería de 5000mAh.",
@@ -4489,7 +4484,7 @@
     {
       "id": 219,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy M35 16GB/64GB - Negro",
       "model": "Galaxy M35",
       "description": "Smartphone Galaxy M35 con 16GB RAM, 64GB, cámara de 108MP, pantalla 6.1\", batería de 4500mAh.",
@@ -4509,7 +4504,7 @@
     {
       "id": 220,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy M15 4GB/1TB - Rojo",
       "model": "Galaxy M15",
       "description": "Smartphone Galaxy M15 con 4GB RAM, 1TB, cámara de 50MP, pantalla 6.5\", batería de 4500mAh.",
@@ -4529,7 +4524,7 @@
     {
       "id": 221,
       "category_id": 2,
-      "brand_id": 27,
+      "brand_id": 26,
       "name": "Realme 12 Pro+ 12GB/256GB - Azul",
       "model": "Realme 12 Pro+",
       "description": "Smartphone Realme 12 Pro+ con 12GB RAM, 256GB, cámara de 200MP, pantalla 6.7\", batería de 4500mAh.",
@@ -4549,7 +4544,7 @@
     {
       "id": 222,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova 12 Pro 8GB/512GB - Azul",
       "model": "Nova 12 Pro",
       "description": "Smartphone Nova 12 Pro con 8GB RAM, 512GB, cámara de 200MP, pantalla 6.8\", batería de 4000mAh.",
@@ -4569,7 +4564,7 @@
     {
       "id": 223,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor X7b 8GB/128GB - Rojo",
       "model": "Honor X7b",
       "description": "Smartphone Honor X7b con 8GB RAM, 128GB, cámara de 48MP, pantalla 7.6\", batería de 5000mAh.",
@@ -4589,7 +4584,7 @@
     {
       "id": 224,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus Nord N30 12GB/256GB - Blanco",
       "model": "OnePlus Nord N30",
       "description": "Smartphone OnePlus Nord N30 con 12GB RAM, 256GB, cámara de 64MP, pantalla 7.6\", batería de 5500mAh.",
@@ -4609,7 +4604,7 @@
     {
       "id": 225,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "Reno 11 Pro 4GB/64GB - Negro",
       "model": "Reno 11 Pro",
       "description": "Smartphone Reno 11 Pro con 4GB RAM, 64GB, cámara de 48MP, pantalla 6.5\", batería de 5500mAh.",
@@ -4669,7 +4664,7 @@
     {
       "id": 228,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor X7b 6GB/1TB - Gris",
       "model": "Honor X7b",
       "description": "Smartphone Honor X7b con 6GB RAM, 1TB, cámara de 108MP, pantalla 6.67\", batería de 5000mAh.",
@@ -4689,7 +4684,7 @@
     {
       "id": 229,
       "category_id": 2,
-      "brand_id": 24,
+      "brand_id": 23,
       "name": "OnePlus 12R 12GB/128GB - Negro",
       "model": "OnePlus 12R",
       "description": "Smartphone OnePlus 12R con 12GB RAM, 128GB, cámara de 64MP, pantalla 6.5\", batería de 5500mAh.",
@@ -4729,7 +4724,7 @@
     {
       "id": 231,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "Find X7 8GB/64GB - Morado",
       "model": "Find X7",
       "description": "Smartphone Find X7 con 8GB RAM, 64GB, cámara de 200MP, pantalla 6.8\", batería de 5000mAh.",
@@ -4749,7 +4744,7 @@
     {
       "id": 232,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Xiaomi 14 12GB/1TB - Blanco",
       "model": "Xiaomi 14",
       "description": "Smartphone Xiaomi 14 con 12GB RAM, 1TB, cámara de 200MP, pantalla 6.8\", batería de 6000mAh.",
@@ -4769,7 +4764,7 @@
     {
       "id": 233,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (2a) 6GB/256GB - Rojo",
       "model": "Phone (2a)",
       "description": "Smartphone Phone (2a) con 6GB RAM, 256GB, cámara de 12MP, pantalla 6.8\", batería de 6000mAh.",
@@ -4789,7 +4784,7 @@
     {
       "id": 234,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova 12 Pro 12GB/512GB - Dorado",
       "model": "Nova 12 Pro",
       "description": "Smartphone Nova 12 Pro con 12GB RAM, 512GB, cámara de 50MP, pantalla 6.5\", batería de 5000mAh.",
@@ -4829,7 +4824,7 @@
     {
       "id": 236,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor Magic 6 Pro 6GB/128GB - Azul",
       "model": "Honor Magic 6 Pro",
       "description": "Smartphone Honor Magic 6 Pro con 6GB RAM, 128GB, cámara de 200MP, pantalla 7.6\", batería de 6000mAh.",
@@ -4869,7 +4864,7 @@
     {
       "id": 238,
       "category_id": 2,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Honor X8b 8GB/512GB - Blanco",
       "model": "Honor X8b",
       "description": "Smartphone Honor X8b con 8GB RAM, 512GB, cámara de 64MP, pantalla 6.8\", batería de 4000mAh.",
@@ -4889,7 +4884,7 @@
     {
       "id": 239,
       "category_id": 2,
-      "brand_id": 22,
+      "brand_id": 21,
       "name": "Moto G84 16GB/128GB - Azul",
       "model": "Moto G84",
       "description": "Smartphone Moto G84 con 16GB RAM, 128GB, cámara de 200MP, pantalla 6.5\", batería de 4000mAh.",
@@ -4909,7 +4904,7 @@
     {
       "id": 240,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (1) 12GB/128GB - Dorado",
       "model": "Phone (1)",
       "description": "Smartphone Phone (1) con 12GB RAM, 128GB, cámara de 200MP, pantalla 6.67\", batería de 4500mAh.",
@@ -4949,7 +4944,7 @@
     {
       "id": 242,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova Y91 4GB/1TB - Blanco",
       "model": "Nova Y91",
       "description": "Smartphone Nova Y91 con 4GB RAM, 1TB, cámara de 50MP, pantalla 6.5\", batería de 4000mAh.",
@@ -4969,7 +4964,7 @@
     {
       "id": 243,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (2a) 8GB/128GB - Azul",
       "model": "Phone (2a)",
       "description": "Smartphone Phone (2a) con 8GB RAM, 128GB, cámara de 48MP, pantalla 6.1\", batería de 5000mAh.",
@@ -4989,7 +4984,7 @@
     {
       "id": 244,
       "category_id": 2,
-      "brand_id": 22,
+      "brand_id": 21,
       "name": "Moto G84 8GB/1TB - Negro",
       "model": "Moto G84",
       "description": "Smartphone Moto G84 con 8GB RAM, 1TB, cámara de 12MP, pantalla 6.67\", batería de 4500mAh.",
@@ -5009,7 +5004,7 @@
     {
       "id": 245,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (2a) 6GB/128GB - Verde",
       "model": "Phone (2a)",
       "description": "Smartphone Phone (2a) con 6GB RAM, 128GB, cámara de 200MP, pantalla 6.67\", batería de 4500mAh.",
@@ -5029,7 +5024,7 @@
     {
       "id": 246,
       "category_id": 2,
-      "brand_id": 22,
+      "brand_id": 21,
       "name": "Moto E14 6GB/1TB - Rojo",
       "model": "Moto E14",
       "description": "Smartphone Moto E14 con 6GB RAM, 1TB, cámara de 200MP, pantalla 6.7\", batería de 4000mAh.",
@@ -5049,7 +5044,7 @@
     {
       "id": 247,
       "category_id": 2,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "Nova 12 Pro 16GB/128GB - Verde",
       "model": "Nova 12 Pro",
       "description": "Smartphone Nova 12 Pro con 16GB RAM, 128GB, cámara de 48MP, pantalla 6.8\", batería de 4000mAh.",
@@ -5069,7 +5064,7 @@
     {
       "id": 248,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Note 13 Pro+ 16GB/1TB - Gris",
       "model": "Redmi Note 13 Pro+",
       "description": "Smartphone Redmi Note 13 Pro+ con 16GB RAM, 1TB, cámara de 200MP, pantalla 6.8\", batería de 6000mAh.",
@@ -5089,7 +5084,7 @@
     {
       "id": 249,
       "category_id": 2,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Note 13 Pro 16GB/512GB - Dorado",
       "model": "Redmi Note 13 Pro",
       "description": "Smartphone Redmi Note 13 Pro con 16GB RAM, 512GB, cámara de 50MP, pantalla 6.1\", batería de 5000mAh.",
@@ -5109,7 +5104,7 @@
     {
       "id": 250,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A58 6GB/512GB - Gris",
       "model": "A58",
       "description": "Smartphone A58 con 6GB RAM, 512GB, cámara de 50MP, pantalla 6.5\", batería de 4000mAh.",
@@ -5129,7 +5124,7 @@
     {
       "id": 251,
       "category_id": 2,
-      "brand_id": 22,
+      "brand_id": 21,
       "name": "Moto G84 12GB/256GB - Azul",
       "model": "Moto G84",
       "description": "Smartphone Moto G84 con 12GB RAM, 256GB, cámara de 12MP, pantalla 6.5\", batería de 4500mAh.",
@@ -5149,7 +5144,7 @@
     {
       "id": 252,
       "category_id": 2,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy A15 6GB/512GB - Negro",
       "model": "Galaxy A15",
       "description": "Smartphone Galaxy A15 con 6GB RAM, 512GB, cámara de 12MP, pantalla 6.8\", batería de 6000mAh.",
@@ -5169,7 +5164,7 @@
     {
       "id": 253,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "A79 12GB/256GB - Blanco",
       "model": "A79",
       "description": "Smartphone A79 con 12GB RAM, 256GB, cámara de 12MP, pantalla 6.8\", batería de 6000mAh.",
@@ -5189,7 +5184,7 @@
     {
       "id": 254,
       "category_id": 2,
-      "brand_id": 25,
+      "brand_id": 24,
       "name": "Reno 11 Pro 4GB/512GB - Azul",
       "model": "Reno 11 Pro",
       "description": "Smartphone Reno 11 Pro con 4GB RAM, 512GB, cámara de 12MP, pantalla 6.1\", batería de 4000mAh.",
@@ -5209,7 +5204,7 @@
     {
       "id": 255,
       "category_id": 2,
-      "brand_id": 23,
+      "brand_id": 22,
       "name": "Phone (2a) 8GB/1TB - Blanco",
       "model": "Phone (2a)",
       "description": "Smartphone Phone (2a) con 8GB RAM, 1TB, cámara de 48MP, pantalla 6.4\", batería de 5000mAh.",
@@ -5229,7 +5224,7 @@
     {
       "id": 256,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9 12GB/1TB Wi-Fi - Gris",
       "model": "Galaxy Tab S9",
       "description": "Tablet Galaxy Tab S9 con 12GB RAM, 1TB, pantalla de 10.1\".",
@@ -5249,7 +5244,7 @@
     {
       "id": 257,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9 Ultra 6GB/128GB Wi-Fi - Negro",
       "model": "Galaxy Tab S9 Ultra",
       "description": "Tablet Galaxy Tab S9 Ultra con 6GB RAM, 128GB, pantalla de 10.1\".",
@@ -5269,7 +5264,7 @@
     {
       "id": 258,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab A9 8GB/1TB Wi-Fi - Plata",
       "model": "Galaxy Tab A9",
       "description": "Tablet Galaxy Tab A9 con 8GB RAM, 1TB, pantalla de 12.9\".",
@@ -5289,7 +5284,7 @@
     {
       "id": 259,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Pad SE 16GB/64GB Wi-Fi - Beige",
       "model": "Redmi Pad SE",
       "description": "Tablet Redmi Pad SE con 16GB RAM, 64GB, pantalla de 12.9\".",
@@ -5309,7 +5304,7 @@
     {
       "id": 260,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P12 4GB/512GB Wi-Fi - Beige",
       "model": "Tab P12",
       "description": "Tablet Tab P12 con 4GB RAM, 512GB, pantalla de 10.1\".",
@@ -5329,7 +5324,7 @@
     {
       "id": 261,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P11 Plus 6GB/1TB Wi-Fi - Gris",
       "model": "Tab P11 Plus",
       "description": "Tablet Tab P11 Plus con 6GB RAM, 1TB, pantalla de 13.2\".",
@@ -5349,7 +5344,7 @@
     {
       "id": 262,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P11 Plus 16GB/1TB Wi-Fi - Plata",
       "model": "Tab P11 Plus",
       "description": "Tablet Tab P11 Plus con 16GB RAM, 1TB, pantalla de 14.6\".",
@@ -5389,7 +5384,7 @@
     {
       "id": 264,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad Pro 13.2 4GB/512GB Wi-Fi - Plata",
       "model": "MatePad Pro 13.2",
       "description": "Tablet MatePad Pro 13.2 con 4GB RAM, 512GB, pantalla de 12.9\".",
@@ -5449,7 +5444,7 @@
     {
       "id": 267,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9 Ultra 8GB/1TB Wi-Fi - Negro",
       "model": "Galaxy Tab S9 Ultra",
       "description": "Tablet Galaxy Tab S9 Ultra con 8GB RAM, 1TB, pantalla de 11.5\".",
@@ -5469,7 +5464,7 @@
     {
       "id": 268,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad T10s 12GB/512GB Wi-Fi - Azul",
       "model": "MatePad T10s",
       "description": "Tablet MatePad T10s con 12GB RAM, 512GB, pantalla de 8.3\".",
@@ -5489,7 +5484,7 @@
     {
       "id": 269,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad X9 6GB/128GB Wi-Fi - Plata",
       "model": "Pad X9",
       "description": "Tablet Pad X9 con 6GB RAM, 128GB, pantalla de 10.9\".",
@@ -5509,7 +5504,7 @@
     {
       "id": 270,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Pad SE 16GB/512GB Wi-Fi - Beige",
       "model": "Redmi Pad SE",
       "description": "Tablet Redmi Pad SE con 16GB RAM, 512GB, pantalla de 10.1\".",
@@ -5529,7 +5524,7 @@
     {
       "id": 271,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad SE 4GB/128GB Wi-Fi - Azul",
       "model": "MatePad SE",
       "description": "Tablet MatePad SE con 4GB RAM, 128GB, pantalla de 12.4\".",
@@ -5549,7 +5544,7 @@
     {
       "id": 272,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Pad 4GB/64GB Wi-Fi - Negro",
       "model": "Redmi Pad",
       "description": "Tablet Redmi Pad con 4GB RAM, 64GB, pantalla de 8.3\".",
@@ -5589,7 +5584,7 @@
     {
       "id": 274,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad Pro 13.2 4GB/1TB Wi-Fi - Plata",
       "model": "MatePad Pro 13.2",
       "description": "Tablet MatePad Pro 13.2 con 4GB RAM, 1TB, pantalla de 14.6\".",
@@ -5609,7 +5604,7 @@
     {
       "id": 275,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Pad 6 16GB/512GB Wi-Fi - Plata",
       "model": "Pad 6",
       "description": "Tablet Pad 6 con 16GB RAM, 512GB, pantalla de 10.9\".",
@@ -5649,7 +5644,7 @@
     {
       "id": 277,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab M10 Plus 16GB/512GB Wi-Fi - Gris",
       "model": "Tab M10 Plus",
       "description": "Tablet Tab M10 Plus con 16GB RAM, 512GB, pantalla de 11.5\".",
@@ -5669,7 +5664,7 @@
     {
       "id": 278,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab A9+ 8GB/64GB Wi-Fi - Plata",
       "model": "Galaxy Tab A9+",
       "description": "Tablet Galaxy Tab A9+ con 8GB RAM, 64GB, pantalla de 14.6\".",
@@ -5689,7 +5684,7 @@
     {
       "id": 279,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad X9 16GB/64GB Wi-Fi - Plata",
       "model": "Pad X9",
       "description": "Tablet Pad X9 con 16GB RAM, 64GB, pantalla de 10.1\".",
@@ -5709,7 +5704,7 @@
     {
       "id": 280,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9+ 16GB/512GB Wi-Fi - Gris",
       "model": "Galaxy Tab S9+",
       "description": "Tablet Galaxy Tab S9+ con 16GB RAM, 512GB, pantalla de 12.4\".",
@@ -5749,7 +5744,7 @@
     {
       "id": 282,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab M11 8GB/256GB Wi-Fi - Gris",
       "model": "Tab M11",
       "description": "Tablet Tab M11 con 8GB RAM, 256GB, pantalla de 10.1\".",
@@ -5769,7 +5764,7 @@
     {
       "id": 283,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab M10 Plus 12GB/512GB Wi-Fi - Plata",
       "model": "Tab M10 Plus",
       "description": "Tablet Tab M10 Plus con 12GB RAM, 512GB, pantalla de 12.9\".",
@@ -5789,7 +5784,7 @@
     {
       "id": 284,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P12 Pro 4GB/128GB Wi-Fi - Negro",
       "model": "Tab P12 Pro",
       "description": "Tablet Tab P12 Pro con 4GB RAM, 128GB, pantalla de 11.5\".",
@@ -5809,7 +5804,7 @@
     {
       "id": 285,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P12 8GB/64GB Wi-Fi - Gris",
       "model": "Tab P12",
       "description": "Tablet Tab P12 con 8GB RAM, 64GB, pantalla de 11\".",
@@ -5849,7 +5844,7 @@
     {
       "id": 287,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad T10s 6GB/64GB Wi-Fi - Plata",
       "model": "MatePad T10s",
       "description": "Tablet MatePad T10s con 6GB RAM, 64GB, pantalla de 11.5\".",
@@ -5869,7 +5864,7 @@
     {
       "id": 288,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab A9 6GB/256GB Wi-Fi - Negro",
       "model": "Galaxy Tab A9",
       "description": "Tablet Galaxy Tab A9 con 6GB RAM, 256GB, pantalla de 14.6\".",
@@ -5909,7 +5904,7 @@
     {
       "id": 290,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9 FE 6GB/512GB Wi-Fi - Beige",
       "model": "Galaxy Tab S9 FE",
       "description": "Tablet Galaxy Tab S9 FE con 6GB RAM, 512GB, pantalla de 12.4\".",
@@ -5929,7 +5924,7 @@
     {
       "id": 291,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad 11.5 4GB/512GB Wi-Fi - Beige",
       "model": "MatePad 11.5",
       "description": "Tablet MatePad 11.5 con 4GB RAM, 512GB, pantalla de 10.1\".",
@@ -5949,7 +5944,7 @@
     {
       "id": 292,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad X9 16GB/1TB Wi-Fi - Beige",
       "model": "Pad X9",
       "description": "Tablet Pad X9 con 16GB RAM, 1TB, pantalla de 11.5\".",
@@ -5969,7 +5964,7 @@
     {
       "id": 293,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P12 Pro 16GB/128GB Wi-Fi - Azul",
       "model": "Tab P12 Pro",
       "description": "Tablet Tab P12 Pro con 16GB RAM, 128GB, pantalla de 10.1\".",
@@ -5989,7 +5984,7 @@
     {
       "id": 294,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Pad 6 Pro 6GB/128GB Wi-Fi - Gris",
       "model": "Pad 6 Pro",
       "description": "Tablet Pad 6 Pro con 6GB RAM, 128GB, pantalla de 13.2\".",
@@ -6009,7 +6004,7 @@
     {
       "id": 295,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad X9 6GB/64GB Wi-Fi - Beige",
       "model": "Pad X9",
       "description": "Tablet Pad X9 con 6GB RAM, 64GB, pantalla de 12.4\".",
@@ -6029,7 +6024,7 @@
     {
       "id": 296,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad X9 16GB/512GB Wi-Fi - Negro",
       "model": "Pad X9",
       "description": "Tablet Pad X9 con 16GB RAM, 512GB, pantalla de 13.2\".",
@@ -6049,7 +6044,7 @@
     {
       "id": 297,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Pad 6 Pro 8GB/64GB Wi-Fi - Beige",
       "model": "Pad 6 Pro",
       "description": "Tablet Pad 6 Pro con 8GB RAM, 64GB, pantalla de 10.9\".",
@@ -6069,7 +6064,7 @@
     {
       "id": 298,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9 FE 8GB/128GB Wi-Fi - Negro",
       "model": "Galaxy Tab S9 FE",
       "description": "Tablet Galaxy Tab S9 FE con 8GB RAM, 128GB, pantalla de 11.5\".",
@@ -6089,7 +6084,7 @@
     {
       "id": 299,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad SE 8GB/1TB Wi-Fi - Azul",
       "model": "MatePad SE",
       "description": "Tablet MatePad SE con 8GB RAM, 1TB, pantalla de 12.9\".",
@@ -6109,7 +6104,7 @@
     {
       "id": 300,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad X9 8GB/64GB Wi-Fi - Azul",
       "model": "Pad X9",
       "description": "Tablet Pad X9 con 8GB RAM, 64GB, pantalla de 11\".",
@@ -6149,7 +6144,7 @@
     {
       "id": 302,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P11 Plus 12GB/256GB Wi-Fi - Beige",
       "model": "Tab P11 Plus",
       "description": "Tablet Tab P11 Plus con 12GB RAM, 256GB, pantalla de 11.5\".",
@@ -6169,7 +6164,7 @@
     {
       "id": 303,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9 Ultra 12GB/128GB Wi-Fi - Beige",
       "model": "Galaxy Tab S9 Ultra",
       "description": "Tablet Galaxy Tab S9 Ultra con 12GB RAM, 128GB, pantalla de 10.9\".",
@@ -6189,7 +6184,7 @@
     {
       "id": 304,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad 9 6GB/64GB Wi-Fi - Azul",
       "model": "Pad 9",
       "description": "Tablet Pad 9 con 6GB RAM, 64GB, pantalla de 12.4\".",
@@ -6229,7 +6224,7 @@
     {
       "id": 306,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad X9 12GB/512GB Wi-Fi - Negro",
       "model": "Pad X9",
       "description": "Tablet Pad X9 con 12GB RAM, 512GB, pantalla de 8.3\".",
@@ -6249,7 +6244,7 @@
     {
       "id": 307,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Pad SE 16GB/512GB Wi-Fi - Azul",
       "model": "Redmi Pad SE",
       "description": "Tablet Redmi Pad SE con 16GB RAM, 512GB, pantalla de 13.2\".",
@@ -6289,7 +6284,7 @@
     {
       "id": 309,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad V8 Pro 8GB/1TB Wi-Fi - Azul",
       "model": "Pad V8 Pro",
       "description": "Tablet Pad V8 Pro con 8GB RAM, 1TB, pantalla de 14.6\".",
@@ -6309,7 +6304,7 @@
     {
       "id": 310,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad 9 8GB/128GB Wi-Fi - Gris",
       "model": "Pad 9",
       "description": "Tablet Pad 9 con 8GB RAM, 128GB, pantalla de 11.5\".",
@@ -6329,7 +6324,7 @@
     {
       "id": 311,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad T10s 4GB/256GB Wi-Fi - Gris",
       "model": "MatePad T10s",
       "description": "Tablet MatePad T10s con 4GB RAM, 256GB, pantalla de 12.9\".",
@@ -6349,7 +6344,7 @@
     {
       "id": 312,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab M11 8GB/128GB Wi-Fi - Beige",
       "model": "Tab M11",
       "description": "Tablet Tab M11 con 8GB RAM, 128GB, pantalla de 11.5\".",
@@ -6409,7 +6404,7 @@
     {
       "id": 315,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad SE 12GB/128GB Wi-Fi - Azul",
       "model": "MatePad SE",
       "description": "Tablet MatePad SE con 12GB RAM, 128GB, pantalla de 12.4\".",
@@ -6449,7 +6444,7 @@
     {
       "id": 317,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad T10s 12GB/64GB Wi-Fi - Gris",
       "model": "MatePad T10s",
       "description": "Tablet MatePad T10s con 12GB RAM, 64GB, pantalla de 12.9\".",
@@ -6489,7 +6484,7 @@
     {
       "id": 319,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P12 6GB/64GB Wi-Fi - Plata",
       "model": "Tab P12",
       "description": "Tablet Tab P12 con 6GB RAM, 64GB, pantalla de 12.4\".",
@@ -6509,7 +6504,7 @@
     {
       "id": 320,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad SE 16GB/256GB Wi-Fi - Gris",
       "model": "MatePad SE",
       "description": "Tablet MatePad SE con 16GB RAM, 256GB, pantalla de 10.1\".",
@@ -6529,7 +6524,7 @@
     {
       "id": 321,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Pad 6GB/1TB Wi-Fi - Azul",
       "model": "Redmi Pad",
       "description": "Tablet Redmi Pad con 6GB RAM, 1TB, pantalla de 12.4\".",
@@ -6569,7 +6564,7 @@
     {
       "id": 323,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab M10 Plus 6GB/128GB Wi-Fi - Azul",
       "model": "Tab M10 Plus",
       "description": "Tablet Tab M10 Plus con 6GB RAM, 128GB, pantalla de 10.1\".",
@@ -6589,7 +6584,7 @@
     {
       "id": 324,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad T10s 4GB/256GB Wi-Fi - Gris",
       "model": "MatePad T10s",
       "description": "Tablet MatePad T10s con 4GB RAM, 256GB, pantalla de 12.4\".",
@@ -6609,7 +6604,7 @@
     {
       "id": 325,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S8 4GB/256GB Wi-Fi - Beige",
       "model": "Galaxy Tab S8",
       "description": "Tablet Galaxy Tab S8 con 4GB RAM, 256GB, pantalla de 8.3\".",
@@ -6629,7 +6624,7 @@
     {
       "id": 326,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad V8 Pro 6GB/128GB Wi-Fi - Azul",
       "model": "Pad V8 Pro",
       "description": "Tablet Pad V8 Pro con 6GB RAM, 128GB, pantalla de 11\".",
@@ -6649,7 +6644,7 @@
     {
       "id": 327,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad 9 6GB/128GB Wi-Fi - Plata",
       "model": "Pad 9",
       "description": "Tablet Pad 9 con 6GB RAM, 128GB, pantalla de 12.9\".",
@@ -6669,7 +6664,7 @@
     {
       "id": 328,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab M10 Plus 4GB/1TB Wi-Fi - Gris",
       "model": "Tab M10 Plus",
       "description": "Tablet Tab M10 Plus con 4GB RAM, 1TB, pantalla de 10.9\".",
@@ -6689,7 +6684,7 @@
     {
       "id": 329,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9 FE 8GB/512GB Wi-Fi - Beige",
       "model": "Galaxy Tab S9 FE",
       "description": "Tablet Galaxy Tab S9 FE con 8GB RAM, 512GB, pantalla de 14.6\".",
@@ -6709,7 +6704,7 @@
     {
       "id": 330,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab A9+ 16GB/128GB Wi-Fi - Beige",
       "model": "Galaxy Tab A9+",
       "description": "Tablet Galaxy Tab A9+ con 16GB RAM, 128GB, pantalla de 11\".",
@@ -6729,7 +6724,7 @@
     {
       "id": 331,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P11 Plus 12GB/512GB Wi-Fi - Gris",
       "model": "Tab P11 Plus",
       "description": "Tablet Tab P11 Plus con 12GB RAM, 512GB, pantalla de 12.9\".",
@@ -6749,7 +6744,7 @@
     {
       "id": 332,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad V8 Pro 4GB/256GB Wi-Fi - Beige",
       "model": "Pad V8 Pro",
       "description": "Tablet Pad V8 Pro con 4GB RAM, 256GB, pantalla de 13.2\".",
@@ -6769,7 +6764,7 @@
     {
       "id": 333,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P11 Plus 6GB/1TB Wi-Fi - Plata",
       "model": "Tab P11 Plus",
       "description": "Tablet Tab P11 Plus con 6GB RAM, 1TB, pantalla de 14.6\".",
@@ -6789,7 +6784,7 @@
     {
       "id": 334,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9+ 16GB/256GB Wi-Fi - Azul",
       "model": "Galaxy Tab S9+",
       "description": "Tablet Galaxy Tab S9+ con 16GB RAM, 256GB, pantalla de 14.6\".",
@@ -6849,7 +6844,7 @@
     {
       "id": 337,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad 9 16GB/512GB Wi-Fi - Negro",
       "model": "Pad 9",
       "description": "Tablet Pad 9 con 16GB RAM, 512GB, pantalla de 12.9\".",
@@ -6889,7 +6884,7 @@
     {
       "id": 339,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9+ 4GB/1TB Wi-Fi - Gris",
       "model": "Galaxy Tab S9+",
       "description": "Tablet Galaxy Tab S9+ con 4GB RAM, 1TB, pantalla de 8.3\".",
@@ -6909,7 +6904,7 @@
     {
       "id": 340,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab S9 Ultra 6GB/1TB Wi-Fi - Negro",
       "model": "Galaxy Tab S9 Ultra",
       "description": "Tablet Galaxy Tab S9 Ultra con 6GB RAM, 1TB, pantalla de 14.6\".",
@@ -6929,7 +6924,7 @@
     {
       "id": 341,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P12 16GB/64GB Wi-Fi - Gris",
       "model": "Tab P12",
       "description": "Tablet Tab P12 con 16GB RAM, 64GB, pantalla de 11\".",
@@ -6969,7 +6964,7 @@
     {
       "id": 343,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad Pro 13.2 6GB/64GB Wi-Fi - Gris",
       "model": "MatePad Pro 13.2",
       "description": "Tablet MatePad Pro 13.2 con 6GB RAM, 64GB, pantalla de 10.1\".",
@@ -6989,7 +6984,7 @@
     {
       "id": 344,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab P11 Plus 8GB/512GB Wi-Fi - Gris",
       "model": "Tab P11 Plus",
       "description": "Tablet Tab P11 Plus con 8GB RAM, 512GB, pantalla de 11\".",
@@ -7009,7 +7004,7 @@
     {
       "id": 345,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad 9 16GB/1TB Wi-Fi - Gris",
       "model": "Pad 9",
       "description": "Tablet Pad 9 con 16GB RAM, 1TB, pantalla de 10.1\".",
@@ -7029,7 +7024,7 @@
     {
       "id": 346,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad Pro 13.2 8GB/128GB Wi-Fi - Beige",
       "model": "MatePad Pro 13.2",
       "description": "Tablet MatePad Pro 13.2 con 8GB RAM, 128GB, pantalla de 12.9\".",
@@ -7089,7 +7084,7 @@
     {
       "id": 349,
       "category_id": 3,
-      "brand_id": 14,
+      "brand_id": 13,
       "name": "MatePad T10s 12GB/128GB Wi-Fi - Azul",
       "model": "MatePad T10s",
       "description": "Tablet MatePad T10s con 12GB RAM, 128GB, pantalla de 8.3\".",
@@ -7109,7 +7104,7 @@
     {
       "id": 350,
       "category_id": 3,
-      "brand_id": 19,
+      "brand_id": 18,
       "name": "Tab M11 12GB/512GB Wi-Fi - Gris",
       "model": "Tab M11",
       "description": "Tablet Tab M11 con 12GB RAM, 512GB, pantalla de 12.4\".",
@@ -7129,7 +7124,7 @@
     {
       "id": 351,
       "category_id": 3,
-      "brand_id": 35,
+      "brand_id": 34,
       "name": "Redmi Pad 12GB/256GB Wi-Fi - Plata",
       "model": "Redmi Pad",
       "description": "Tablet Redmi Pad con 12GB RAM, 256GB, pantalla de 10.9\".",
@@ -7149,7 +7144,7 @@
     {
       "id": 352,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad 9 8GB/1TB Wi-Fi - Negro",
       "model": "Pad 9",
       "description": "Tablet Pad 9 con 8GB RAM, 1TB, pantalla de 10.1\".",
@@ -7189,7 +7184,7 @@
     {
       "id": 354,
       "category_id": 3,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Galaxy Tab A9+ 8GB/256GB Wi-Fi - Gris",
       "model": "Galaxy Tab A9+",
       "description": "Tablet Galaxy Tab A9+ con 8GB RAM, 256GB, pantalla de 10.9\".",
@@ -7209,7 +7204,7 @@
     {
       "id": 355,
       "category_id": 3,
-      "brand_id": 13,
+      "brand_id": 12,
       "name": "Pad X9 8GB/512GB Wi-Fi - Beige",
       "model": "Pad X9",
       "description": "Tablet Pad X9 con 8GB RAM, 512GB, pantalla de 11.5\".",
@@ -7229,7 +7224,7 @@
     {
       "id": 356,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Yvi FX - Azul",
       "model": "Yvi FX",
       "description": "Mouse Trust Yvi FX. dpi: 12000, connectivity: Wireless 2.4GHz, buttons: 6.",
@@ -7246,7 +7241,7 @@
     {
       "id": 357,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Mydo Silent - Blanco",
       "model": "Mydo Silent",
       "description": "Mouse Trust Mydo Silent. dpi: 30000, connectivity: Bluetooth, buttons: 11.",
@@ -7263,7 +7258,7 @@
     {
       "id": 358,
       "category_id": 4,
-      "brand_id": 28,
+      "brand_id": 27,
       "name": "Redragon M601 Centrophorus - Rojo",
       "model": "M601 Centrophorus",
       "description": "Mouse Redragon M601 Centrophorus. dpi: 6400, connectivity: USB, buttons: 7.",
@@ -7280,7 +7275,7 @@
     {
       "id": 359,
       "category_id": 4,
-      "brand_id": 28,
+      "brand_id": 27,
       "name": "Redragon M601 Centrophorus - Azul",
       "model": "M601 Centrophorus",
       "description": "Mouse Redragon M601 Centrophorus. dpi: 16000, connectivity: USB, buttons: 4.",
@@ -7297,7 +7292,7 @@
     {
       "id": 360,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Pulsefire Core - Rojo",
       "model": "Pulsefire Core",
       "description": "Mouse HyperX Pulsefire Core. dpi: 1600, connectivity: Wireless + Bluetooth, buttons: 8.",
@@ -7314,7 +7309,7 @@
     {
       "id": 361,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Viper V3 Pro - Azul",
       "model": "Viper V3 Pro",
       "description": "Mouse Razer Viper V3 Pro. dpi: 3200, connectivity: Wireless 2.4GHz, buttons: 11.",
@@ -7331,7 +7326,7 @@
     {
       "id": 362,
       "category_id": 4,
-      "brand_id": 28,
+      "brand_id": 27,
       "name": "Redragon M711 Cobra - Blanco",
       "model": "M711 Cobra",
       "description": "Mouse Redragon M711 Cobra. dpi: 12000, connectivity: Bluetooth, buttons: 11.",
@@ -7348,7 +7343,7 @@
     {
       "id": 363,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Mydo Silent - Gris",
       "model": "Mydo Silent",
       "description": "Mouse Trust Mydo Silent. dpi: 6400, connectivity: USB, buttons: 7.",
@@ -7365,7 +7360,7 @@
     {
       "id": 364,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Pulsefire Haste 2 - Negro",
       "model": "Pulsefire Haste 2",
       "description": "Mouse HyperX Pulsefire Haste 2. dpi: 6400, connectivity: Wireless + Bluetooth, buttons: 8.",
@@ -7382,7 +7377,7 @@
     {
       "id": 365,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Viper V3 Pro - Azul",
       "model": "Viper V3 Pro",
       "description": "Mouse Razer Viper V3 Pro. dpi: 1600, connectivity: Wireless + Bluetooth, buttons: 9.",
@@ -7399,7 +7394,7 @@
     {
       "id": 366,
       "category_id": 4,
-      "brand_id": 32,
+      "brand_id": 31,
       "name": "SteelSeries Aerox 3 - Azul",
       "model": "Aerox 3",
       "description": "Mouse SteelSeries Aerox 3. dpi: 3200, connectivity: Bluetooth, buttons: 8.",
@@ -7416,7 +7411,7 @@
     {
       "id": 367,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Yvi FX - Azul",
       "model": "Yvi FX",
       "description": "Mouse Trust Yvi FX. dpi: 3200, connectivity: Bluetooth, buttons: 11.",
@@ -7433,7 +7428,7 @@
     {
       "id": 368,
       "category_id": 4,
-      "brand_id": 28,
+      "brand_id": 27,
       "name": "Redragon M612 Predator - Blanco",
       "model": "M612 Predator",
       "description": "Mouse Redragon M612 Predator. dpi: 6400, connectivity: Bluetooth, buttons: 9.",
@@ -7450,7 +7445,7 @@
     {
       "id": 369,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Pulsefire Haste 2 - Negro",
       "model": "Pulsefire Haste 2",
       "description": "Mouse HyperX Pulsefire Haste 2. dpi: 12000, connectivity: Wireless + Bluetooth, buttons: 12.",
@@ -7467,7 +7462,7 @@
     {
       "id": 370,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Pulsefire Haste 2 - Rojo",
       "model": "Pulsefire Haste 2",
       "description": "Mouse HyperX Pulsefire Haste 2. dpi: 30000, connectivity: USB, buttons: 8.",
@@ -7484,7 +7479,7 @@
     {
       "id": 371,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Pulsefire Surge - Azul",
       "model": "Pulsefire Surge",
       "description": "Mouse HyperX Pulsefire Surge. dpi: 16000, connectivity: Wireless + Bluetooth, buttons: 4.",
@@ -7501,7 +7496,7 @@
     {
       "id": 372,
       "category_id": 4,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Katar Elite - Negro",
       "model": "Katar Elite",
       "description": "Mouse Corsair Katar Elite. dpi: 800, connectivity: Bluetooth, buttons: 9.",
@@ -7518,7 +7513,7 @@
     {
       "id": 373,
       "category_id": 4,
-      "brand_id": 28,
+      "brand_id": 27,
       "name": "Redragon M612 Predator - Blanco",
       "model": "M612 Predator",
       "description": "Mouse Redragon M612 Predator. dpi: 1600, connectivity: USB, buttons: 6.",
@@ -7535,7 +7530,7 @@
     {
       "id": 374,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech M750 - Azul",
       "model": "M750",
       "description": "Mouse Logitech M750. dpi: 3200, connectivity: Wireless 2.4GHz, buttons: 9.",
@@ -7552,7 +7547,7 @@
     {
       "id": 375,
       "category_id": 4,
-      "brand_id": 32,
+      "brand_id": 31,
       "name": "SteelSeries Rival 3 - Azul",
       "model": "Rival 3",
       "description": "Mouse SteelSeries Rival 3. dpi: 6400, connectivity: Bluetooth, buttons: 10.",
@@ -7569,7 +7564,7 @@
     {
       "id": 376,
       "category_id": 4,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Harpoon RGB - Rojo",
       "model": "Harpoon RGB",
       "description": "Mouse Corsair Harpoon RGB. dpi: 3200, connectivity: Wireless + Bluetooth, buttons: 8.",
@@ -7586,7 +7581,7 @@
     {
       "id": 377,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Mydo Silent - Blanco",
       "model": "Mydo Silent",
       "description": "Mouse Trust Mydo Silent. dpi: 3200, connectivity: USB, buttons: 7.",
@@ -7603,7 +7598,7 @@
     {
       "id": 378,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech G502 X - Negro",
       "model": "G502 X",
       "description": "Mouse Logitech G502 X. dpi: 1600, connectivity: Bluetooth, buttons: 4.",
@@ -7620,7 +7615,7 @@
     {
       "id": 379,
       "category_id": 4,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair K70 RGB Pro - Negro",
       "model": "K70 RGB Pro",
       "description": "Teclado Corsair K70 RGB Pro. type: Mecánico, switches: Membrana, layout: TKL.",
@@ -7638,7 +7633,7 @@
     {
       "id": 380,
       "category_id": 4,
-      "brand_id": 28,
+      "brand_id": 27,
       "name": "Redragon K556 Devarajas - Azul",
       "model": "K556 Devarajas",
       "description": "Teclado Redragon K556 Devarajas. type: Mecánico, switches: Membrana, layout: 60%.",
@@ -7656,7 +7651,7 @@
     {
       "id": 381,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Alloy Origins Core - Azul",
       "model": "Alloy Origins Core",
       "description": "Teclado HyperX Alloy Origins Core. type: Membrana, switches: Cherry MX Red, layout: 60%.",
@@ -7674,7 +7669,7 @@
     {
       "id": 382,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer BlackWidow V4 - Rojo",
       "model": "BlackWidow V4",
       "description": "Teclado Razer BlackWidow V4. type: Óptico-mecánico, switches: Razer Green, layout: Full-size.",
@@ -7692,7 +7687,7 @@
     {
       "id": 383,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Alloy Origins 65 - Blanco",
       "model": "Alloy Origins 65",
       "description": "Teclado HyperX Alloy Origins 65. type: Membrana, switches: Óptico, layout: Full-size.",
@@ -7710,7 +7705,7 @@
     {
       "id": 384,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech G Pro X - Azul",
       "model": "G Pro X",
       "description": "Teclado Logitech G Pro X. type: Membrana, switches: Razer Green, layout: Full-size.",
@@ -7728,7 +7723,7 @@
     {
       "id": 385,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer DeathStalker V2 - Negro",
       "model": "DeathStalker V2",
       "description": "Teclado Razer DeathStalker V2. type: Óptico-mecánico, switches: Razer Green, layout: 65%.",
@@ -7746,7 +7741,7 @@
     {
       "id": 386,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Ornata V3 - Gris",
       "model": "Ornata V3",
       "description": "Teclado Razer Ornata V3. type: Mecánico, switches: Membrana, layout: 60%.",
@@ -7764,7 +7759,7 @@
     {
       "id": 387,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer DeathStalker V2 - Negro",
       "model": "DeathStalker V2",
       "description": "Teclado Razer DeathStalker V2. type: Óptico-mecánico, switches: HyperX Red, layout: TKL.",
@@ -7782,7 +7777,7 @@
     {
       "id": 388,
       "category_id": 4,
-      "brand_id": 32,
+      "brand_id": 31,
       "name": "SteelSeries Apex 3 TKL - Gris",
       "model": "Apex 3 TKL",
       "description": "Teclado SteelSeries Apex 3 TKL. type: Óptico-mecánico, switches: Razer Yellow, layout: TKL.",
@@ -7800,7 +7795,7 @@
     {
       "id": 389,
       "category_id": 4,
-      "brand_id": 32,
+      "brand_id": 31,
       "name": "SteelSeries Apex 3 TKL - Rojo",
       "model": "Apex 3 TKL",
       "description": "Teclado SteelSeries Apex 3 TKL. type: Membrana, switches: Outemu Blue, layout: 65%.",
@@ -7818,7 +7813,7 @@
     {
       "id": 390,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Alloy Elite 2 - Negro",
       "model": "Alloy Elite 2",
       "description": "Teclado HyperX Alloy Elite 2. type: Membrana, switches: Cherry MX Blue, layout: Full-size.",
@@ -7836,7 +7831,7 @@
     {
       "id": 391,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Huntsman V3 Pro - Rojo",
       "model": "Huntsman V3 Pro",
       "description": "Teclado Razer Huntsman V3 Pro. type: Membrana, switches: Membrana, layout: Full-size.",
@@ -7854,7 +7849,7 @@
     {
       "id": 392,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Huntsman V3 Pro - Azul",
       "model": "Huntsman V3 Pro",
       "description": "Teclado Razer Huntsman V3 Pro. type: Mecánico, switches: Cherry MX Blue, layout: Full-size.",
@@ -7872,7 +7867,7 @@
     {
       "id": 393,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer DeathStalker V2 - Azul",
       "model": "DeathStalker V2",
       "description": "Teclado Razer DeathStalker V2. type: Mecánico, switches: Outemu Blue, layout: Full-size.",
@@ -7890,7 +7885,7 @@
     {
       "id": 394,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Huntsman V3 Pro - Azul",
       "model": "Huntsman V3 Pro",
       "description": "Teclado Razer Huntsman V3 Pro. type: Óptico-mecánico, switches: Membrana, layout: 65%.",
@@ -7908,7 +7903,7 @@
     {
       "id": 395,
       "category_id": 4,
-      "brand_id": 28,
+      "brand_id": 27,
       "name": "Redragon K552 Kumara - Azul",
       "model": "K552 Kumara",
       "description": "Teclado Redragon K552 Kumara. type: Membrana, switches: Cherry MX Red, layout: 60%.",
@@ -7926,7 +7921,7 @@
     {
       "id": 396,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Alloy Elite 2 - Rojo",
       "model": "Alloy Elite 2",
       "description": "Teclado HyperX Alloy Elite 2. type: Mecánico, switches: Razer Yellow, layout: 65%.",
@@ -7944,7 +7939,7 @@
     {
       "id": 397,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer DeathStalker V2 - Azul",
       "model": "DeathStalker V2",
       "description": "Teclado Razer DeathStalker V2. type: Óptico-mecánico, switches: Outemu Blue, layout: TKL.",
@@ -7962,7 +7957,7 @@
     {
       "id": 398,
       "category_id": 4,
-      "brand_id": 32,
+      "brand_id": 31,
       "name": "SteelSeries Apex Pro TKL - Gris",
       "model": "Apex Pro TKL",
       "description": "Teclado SteelSeries Apex Pro TKL. type: Mecánico, switches: Razer Green, layout: Full-size.",
@@ -7980,7 +7975,7 @@
     {
       "id": 399,
       "category_id": 4,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair K70 RGB Pro - Azul",
       "model": "K70 RGB Pro",
       "description": "Teclado Corsair K70 RGB Pro. type: Mecánico, switches: Razer Yellow, layout: 60%.",
@@ -7998,7 +7993,7 @@
     {
       "id": 400,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech Pop Keys - Negro",
       "model": "Pop Keys",
       "description": "Teclado Logitech Pop Keys. type: Membrana, switches: Razer Yellow, layout: 65%.",
@@ -8016,7 +8011,7 @@
     {
       "id": 401,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech G915 TKL - Gris",
       "model": "G915 TKL",
       "description": "Teclado Logitech G915 TKL. type: Óptico-mecánico, switches: Cherry MX Blue, layout: 65%.",
@@ -8034,7 +8029,7 @@
     {
       "id": 402,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Live Pro 2 - Negro",
       "model": "Live Pro 2",
       "description": "Audífonos JBL Live Pro 2. type: On-ear, connectivity: Cable 3.5mm.",
@@ -8052,7 +8047,7 @@
     {
       "id": 403,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech G733 - Rojo",
       "model": "G733",
       "description": "Audífonos Logitech G733. type: In-ear TWS, connectivity: Bluetooth.",
@@ -8070,7 +8065,7 @@
     {
       "id": 404,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Cloud Stinger 2 - Negro",
       "model": "Cloud Stinger 2",
       "description": "Audífonos HyperX Cloud Stinger 2. type: Over-ear, connectivity: Bluetooth + 2.4GHz, noise_cancelling: True.",
@@ -8088,7 +8083,7 @@
     {
       "id": 405,
       "category_id": 4,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair HS65 Surround - Negro",
       "model": "HS65 Surround",
       "description": "Audífonos Corsair HS65 Surround. type: Over-ear, connectivity: Bluetooth, noise_cancelling: True.",
@@ -8106,7 +8101,7 @@
     {
       "id": 406,
       "category_id": 4,
-      "brand_id": 6,
+      "brand_id": 5,
       "name": "Bose QuietComfort Ultra - Rojo",
       "model": "QuietComfort Ultra",
       "description": "Audífonos Bose QuietComfort Ultra. type: On-ear, connectivity: Bluetooth.",
@@ -8124,7 +8119,7 @@
     {
       "id": 407,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech G PRO X 2 - Rojo",
       "model": "G PRO X 2",
       "description": "Audífonos Logitech G PRO X 2. type: In-ear TWS, connectivity: Bluetooth, noise_cancelling: True.",
@@ -8142,7 +8137,7 @@
     {
       "id": 408,
       "category_id": 4,
-      "brand_id": 32,
+      "brand_id": 31,
       "name": "SteelSeries Arctis 1 - Gris",
       "model": "Arctis 1",
       "description": "Audífonos SteelSeries Arctis 1. type: Over-ear, connectivity: USB, noise_cancelling: True.",
@@ -8160,7 +8155,7 @@
     {
       "id": 409,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Cloud III - Blanco",
       "model": "Cloud III",
       "description": "Audífonos HyperX Cloud III. type: On-ear, connectivity: Bluetooth, noise_cancelling: True.",
@@ -8178,7 +8173,7 @@
     {
       "id": 410,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Tune 520BT - Negro",
       "model": "Tune 520BT",
       "description": "Audífonos JBL Tune 520BT. type: In-ear TWS, connectivity: USB.",
@@ -8196,7 +8191,7 @@
     {
       "id": 411,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Cloud MIX - Blanco",
       "model": "Cloud MIX",
       "description": "Audífonos HyperX Cloud MIX. type: On-ear, connectivity: USB.",
@@ -8214,7 +8209,7 @@
     {
       "id": 412,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech Zone Vibe 100 - Rojo",
       "model": "Zone Vibe 100",
       "description": "Audífonos Logitech Zone Vibe 100. type: Over-ear, connectivity: USB, noise_cancelling: True.",
@@ -8232,7 +8227,7 @@
     {
       "id": 413,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Cloud MIX - Gris",
       "model": "Cloud MIX",
       "description": "Audífonos HyperX Cloud MIX. type: Over-ear, connectivity: Wireless 2.4GHz.",
@@ -8250,7 +8245,7 @@
     {
       "id": 414,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech Zone Vibe 100 - Gris",
       "model": "Zone Vibe 100",
       "description": "Audífonos Logitech Zone Vibe 100. type: Over-ear, connectivity: Cable 3.5mm, noise_cancelling: True.",
@@ -8268,7 +8263,7 @@
     {
       "id": 415,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer BlackShark V2 - Negro",
       "model": "BlackShark V2",
       "description": "Audífonos Razer BlackShark V2. type: In-ear TWS, connectivity: Bluetooth + 2.4GHz, noise_cancelling: True.",
@@ -8286,7 +8281,7 @@
     {
       "id": 416,
       "category_id": 4,
-      "brand_id": 15,
+      "brand_id": 14,
       "name": "HyperX Cloud III - Azul",
       "model": "Cloud III",
       "description": "Audífonos HyperX Cloud III. type: On-ear, connectivity: Bluetooth, noise_cancelling: True.",
@@ -8304,7 +8299,7 @@
     {
       "id": 417,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Tune 770NC - Blanco",
       "model": "Tune 770NC",
       "description": "Audífonos JBL Tune 770NC. type: In-ear TWS, connectivity: Cable 3.5mm.",
@@ -8322,7 +8317,7 @@
     {
       "id": 418,
       "category_id": 4,
-      "brand_id": 31,
+      "brand_id": 30,
       "name": "Sony INZONE H9 - Blanco",
       "model": "INZONE H9",
       "description": "Audífonos Sony INZONE H9. type: Over-ear, connectivity: Bluetooth + 2.4GHz, noise_cancelling: True.",
@@ -8340,7 +8335,7 @@
     {
       "id": 419,
       "category_id": 4,
-      "brand_id": 31,
+      "brand_id": 30,
       "name": "Sony WH-CH520 - Negro",
       "model": "WH-CH520",
       "description": "Audífonos Sony WH-CH520. type: In-ear TWS, connectivity: Wireless 2.4GHz, noise_cancelling: True.",
@@ -8358,7 +8353,7 @@
     {
       "id": 420,
       "category_id": 4,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair HS80 RGB - Gris",
       "model": "HS80 RGB",
       "description": "Audífonos Corsair HS80 RGB. type: In-ear TWS, connectivity: Bluetooth, noise_cancelling: True.",
@@ -8376,7 +8371,7 @@
     {
       "id": 421,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Quantum 800 - Negro",
       "model": "Quantum 800",
       "description": "Audífonos JBL Quantum 800. type: In-ear TWS, connectivity: Cable 3.5mm, noise_cancelling: True.",
@@ -8394,7 +8389,7 @@
     {
       "id": 422,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Tune 520BT - Gris",
       "model": "Tune 520BT",
       "description": "Audífonos JBL Tune 520BT. type: Over-ear, connectivity: Bluetooth, noise_cancelling: True.",
@@ -8412,7 +8407,7 @@
     {
       "id": 423,
       "category_id": 4,
-      "brand_id": 6,
+      "brand_id": 5,
       "name": "Bose QuietComfort Ultra - Rojo",
       "model": "QuietComfort Ultra",
       "description": "Audífonos Bose QuietComfort Ultra. type: In-ear TWS, connectivity: Wireless 2.4GHz.",
@@ -8430,7 +8425,7 @@
     {
       "id": 424,
       "category_id": 4,
-      "brand_id": 31,
+      "brand_id": 30,
       "name": "Sony WH-CH720N - Negro",
       "model": "WH-CH720N",
       "description": "Audífonos Sony WH-CH720N. type: Over-ear, connectivity: Bluetooth, noise_cancelling: True.",
@@ -8448,7 +8443,7 @@
     {
       "id": 425,
       "category_id": 4,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell S2421H",
       "model": "S2421H",
       "description": "Monitor Dell S2421H. screen_size: 49\" Super Ultrawide, resolution: 1920x1080 (FHD), refresh_rate_hz: 100.",
@@ -8466,7 +8461,7 @@
     {
       "id": 426,
       "category_id": 4,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Odyssey G5",
       "model": "Odyssey G5",
       "description": "Monitor Samsung Odyssey G5. screen_size: 27\", resolution: 3440x1440 (UWQHD), refresh_rate_hz: 75.",
@@ -8502,7 +8497,7 @@
     {
       "id": 428,
       "category_id": 4,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell S2722DGM",
       "model": "S2722DGM",
       "description": "Monitor Dell S2722DGM. screen_size: 32\", resolution: 1920x1080 (FHD), refresh_rate_hz: 144.",
@@ -8538,7 +8533,7 @@
     {
       "id": 430,
       "category_id": 4,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Odyssey G7",
       "model": "Odyssey G7",
       "description": "Monitor Samsung Odyssey G7. screen_size: 34\" Ultrawide, resolution: 3440x1440 (UWQHD), refresh_rate_hz: 240.",
@@ -8556,7 +8551,7 @@
     {
       "id": 431,
       "category_id": 4,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell P2723QE",
       "model": "P2723QE",
       "description": "Monitor Dell P2723QE. screen_size: 34\" Ultrawide, resolution: 1920x1080 (FHD), refresh_rate_hz: 144.",
@@ -8574,7 +8569,7 @@
     {
       "id": 432,
       "category_id": 4,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell S2421H",
       "model": "S2421H",
       "description": "Monitor Dell S2421H. screen_size: 24\", resolution: 2560x1440 (QHD), refresh_rate_hz: 60.",
@@ -8610,7 +8605,7 @@
     {
       "id": 434,
       "category_id": 4,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell P2723QE",
       "model": "P2723QE",
       "description": "Monitor Dell P2723QE. screen_size: 27\", resolution: 2560x1440 (QHD), refresh_rate_hz: 100.",
@@ -8628,7 +8623,7 @@
     {
       "id": 435,
       "category_id": 4,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell UltraSharp U2723QE",
       "model": "UltraSharp U2723QE",
       "description": "Monitor Dell UltraSharp U2723QE. screen_size: 27\", resolution: 2560x1440 (QHD), refresh_rate_hz: 240.",
@@ -8664,7 +8659,7 @@
     {
       "id": 437,
       "category_id": 4,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Odyssey G9",
       "model": "Odyssey G9",
       "description": "Monitor Samsung Odyssey G9. screen_size: 24\", resolution: 1920x1080 (FHD), refresh_rate_hz: 100.",
@@ -8682,7 +8677,7 @@
     {
       "id": 438,
       "category_id": 4,
-      "brand_id": 9,
+      "brand_id": 8,
       "name": "Dell UltraSharp U2723QE",
       "model": "UltraSharp U2723QE",
       "description": "Monitor Dell UltraSharp U2723QE. screen_size: 49\" Super Ultrawide, resolution: 3440x1440 (UWQHD), refresh_rate_hz: 100.",
@@ -8700,7 +8695,7 @@
     {
       "id": 439,
       "category_id": 4,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung Odyssey G9",
       "model": "Odyssey G9",
       "description": "Monitor Samsung Odyssey G9. screen_size: 32\", resolution: 1920x1080 (FHD), refresh_rate_hz: 75.",
@@ -8718,7 +8713,7 @@
     {
       "id": 440,
       "category_id": 4,
-      "brand_id": 36,
+      "brand_id": 35,
       "name": "LG UltraFine 27UL850",
       "model": "UltraFine 27UL850",
       "description": "Monitor LG UltraFine 27UL850. screen_size: 34\" Ultrawide, resolution: 2560x1440 (QHD), refresh_rate_hz: 240.",
@@ -8754,7 +8749,7 @@
     {
       "id": 442,
       "category_id": 4,
-      "brand_id": 5,
+      "brand_id": 2,
       "name": "Asus ProArt PA278QV",
       "model": "ProArt PA278QV",
       "description": "Monitor Asus ProArt PA278QV. screen_size: 24\", resolution: 3840x2160 (4K), refresh_rate_hz: 75.",
@@ -8790,7 +8785,7 @@
     {
       "id": 444,
       "category_id": 4,
-      "brand_id": 36,
+      "brand_id": 35,
       "name": "LG 27MR400",
       "model": "27MR400",
       "description": "Monitor LG 27MR400. screen_size: 32\", resolution: 2560x1440 (QHD), refresh_rate_hz: 240.",
@@ -8844,7 +8839,7 @@
     {
       "id": 447,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech BRIO 4K - Rojo",
       "model": "BRIO 4K",
       "description": "Webcam Logitech BRIO 4K. resolution: 1440p QHD, fps: 60, autofocus: True.",
@@ -8861,7 +8856,7 @@
     {
       "id": 448,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Teza 4K - Azul",
       "model": "Teza 4K",
       "description": "Webcam Trust Teza 4K. resolution: 720p HD, fps: 60, autofocus: True.",
@@ -8878,7 +8873,7 @@
     {
       "id": 449,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech C922 Pro Stream - Negro",
       "model": "C922 Pro Stream",
       "description": "Webcam Logitech C922 Pro Stream. resolution: 1440p QHD, fps: 60.",
@@ -8895,7 +8890,7 @@
     {
       "id": 450,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech BRIO 4K - Gris",
       "model": "BRIO 4K",
       "description": "Webcam Logitech BRIO 4K. resolution: 720p HD, fps: 30.",
@@ -8912,7 +8907,7 @@
     {
       "id": 451,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo X - Gris",
       "model": "Kiyo X",
       "description": "Webcam Razer Kiyo X. resolution: 4K UHD, fps: 60.",
@@ -8929,7 +8924,7 @@
     {
       "id": 452,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech BRIO 4K - Rojo",
       "model": "BRIO 4K",
       "description": "Webcam Logitech BRIO 4K. resolution: 720p HD, fps: 60, autofocus: True.",
@@ -8946,7 +8941,7 @@
     {
       "id": 453,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo Pro - Gris",
       "model": "Kiyo Pro",
       "description": "Webcam Razer Kiyo Pro. resolution: 720p HD, fps: 60, autofocus: True.",
@@ -8963,7 +8958,7 @@
     {
       "id": 454,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo Pro - Negro",
       "model": "Kiyo Pro",
       "description": "Webcam Razer Kiyo Pro. resolution: 4K UHD, fps: 30, autofocus: True.",
@@ -8980,7 +8975,7 @@
     {
       "id": 455,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo X - Rojo",
       "model": "Kiyo X",
       "description": "Webcam Razer Kiyo X. resolution: 4K UHD, fps: 30, autofocus: True.",
@@ -8997,7 +8992,7 @@
     {
       "id": 456,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo Pro - Gris",
       "model": "Kiyo Pro",
       "description": "Webcam Razer Kiyo Pro. resolution: 4K UHD, fps: 30.",
@@ -9014,7 +9009,7 @@
     {
       "id": 457,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Trino HD - Azul",
       "model": "Trino HD",
       "description": "Webcam Trust Trino HD. resolution: 1080p Full HD, fps: 60, autofocus: True.",
@@ -9031,7 +9026,7 @@
     {
       "id": 458,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo Pro Ultra - Rojo",
       "model": "Kiyo Pro Ultra",
       "description": "Webcam Razer Kiyo Pro Ultra. resolution: 1440p QHD, fps: 60.",
@@ -9048,7 +9043,7 @@
     {
       "id": 459,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo Pro - Negro",
       "model": "Kiyo Pro",
       "description": "Webcam Razer Kiyo Pro. resolution: 4K UHD, fps: 30.",
@@ -9065,7 +9060,7 @@
     {
       "id": 460,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Teza 4K - Gris",
       "model": "Teza 4K",
       "description": "Webcam Trust Teza 4K. resolution: 720p HD, fps: 60.",
@@ -9082,7 +9077,7 @@
     {
       "id": 461,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech C270 - Gris",
       "model": "C270",
       "description": "Webcam Logitech C270. resolution: 4K UHD, fps: 60.",
@@ -9099,7 +9094,7 @@
     {
       "id": 462,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech StreamCam - Gris",
       "model": "StreamCam",
       "description": "Webcam Logitech StreamCam. resolution: 1080p Full HD, fps: 30, autofocus: True.",
@@ -9116,7 +9111,7 @@
     {
       "id": 463,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo X - Azul",
       "model": "Kiyo X",
       "description": "Webcam Razer Kiyo X. resolution: 4K UHD, fps: 60, autofocus: True.",
@@ -9133,7 +9128,7 @@
     {
       "id": 464,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech C922 Pro Stream - Azul",
       "model": "C922 Pro Stream",
       "description": "Webcam Logitech C922 Pro Stream. resolution: 1080p Full HD, fps: 60, autofocus: True.",
@@ -9150,7 +9145,7 @@
     {
       "id": 465,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Tyro Full HD - Negro",
       "model": "Tyro Full HD",
       "description": "Webcam Trust Tyro Full HD. resolution: 1080p Full HD, fps: 30, autofocus: True.",
@@ -9167,7 +9162,7 @@
     {
       "id": 466,
       "category_id": 4,
-      "brand_id": 26,
+      "brand_id": 25,
       "name": "Razer Kiyo X - Blanco",
       "model": "Kiyo X",
       "description": "Webcam Razer Kiyo X. resolution: 1440p QHD, fps: 60.",
@@ -9184,7 +9179,7 @@
     {
       "id": 467,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Teza 4K - Negro",
       "model": "Teza 4K",
       "description": "Webcam Trust Teza 4K. resolution: 720p HD, fps: 30, autofocus: True.",
@@ -9201,7 +9196,7 @@
     {
       "id": 468,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech BRIO 4K - Gris",
       "model": "BRIO 4K",
       "description": "Webcam Logitech BRIO 4K. resolution: 1440p QHD, fps: 60, autofocus: True.",
@@ -9218,7 +9213,7 @@
     {
       "id": 469,
       "category_id": 4,
-      "brand_id": 33,
+      "brand_id": 32,
       "name": "Trust Teza 4K - Gris",
       "model": "Teza 4K",
       "description": "Webcam Trust Teza 4K. resolution: 4K UHD, fps: 30, autofocus: True.",
@@ -9235,7 +9230,7 @@
     {
       "id": 470,
       "category_id": 4,
-      "brand_id": 31,
+      "brand_id": 30,
       "name": "Sony SRS-XB100 - Negro",
       "model": "SRS-XB100",
       "description": "Parlante Sony SRS-XB100. type: Sistema 2.1, watts: 160.",
@@ -9252,7 +9247,7 @@
     {
       "id": 471,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech G560 Gaming - Blanco",
       "model": "G560 Gaming",
       "description": "Parlante Logitech G560 Gaming. type: Sistema 2.0, watts: 5.",
@@ -9269,7 +9264,7 @@
     {
       "id": 472,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech G560 Gaming - Blanco",
       "model": "G560 Gaming",
       "description": "Parlante Logitech G560 Gaming. type: Escritorio Bluetooth, watts: 160, battery_hours: 20.",
@@ -9286,7 +9281,7 @@
     {
       "id": 473,
       "category_id": 4,
-      "brand_id": 6,
+      "brand_id": 5,
       "name": "Bose SoundLink Flex - Negro",
       "model": "SoundLink Flex",
       "description": "Parlante Bose SoundLink Flex. type: Sistema 2.0, watts: 50, battery_hours: 24.",
@@ -9303,7 +9298,7 @@
     {
       "id": 474,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech Z207 - Blanco",
       "model": "Z207",
       "description": "Parlante Logitech Z207. type: Sistema 2.1, watts: 30, battery_hours: 12.",
@@ -9320,7 +9315,7 @@
     {
       "id": 475,
       "category_id": 4,
-      "brand_id": 6,
+      "brand_id": 5,
       "name": "Bose SoundLink Flex - Negro",
       "model": "SoundLink Flex",
       "description": "Parlante Bose SoundLink Flex. type: Portátil Bluetooth, watts: 160, battery_hours: 12.",
@@ -9337,7 +9332,7 @@
     {
       "id": 476,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Xtreme 3 - Blanco",
       "model": "Xtreme 3",
       "description": "Parlante JBL Xtreme 3. type: Portátil Bluetooth, watts: 160, battery_hours: 20.",
@@ -9354,7 +9349,7 @@
     {
       "id": 477,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Flip 6 - Negro",
       "model": "Flip 6",
       "description": "Parlante JBL Flip 6. type: Sistema 2.0, watts: 10, battery_hours: 20.",
@@ -9371,7 +9366,7 @@
     {
       "id": 478,
       "category_id": 4,
-      "brand_id": 6,
+      "brand_id": 5,
       "name": "Bose SoundLink Flex - Negro",
       "model": "SoundLink Flex",
       "description": "Parlante Bose SoundLink Flex. type: Sistema 2.0, watts: 5.",
@@ -9388,7 +9383,7 @@
     {
       "id": 479,
       "category_id": 4,
-      "brand_id": 31,
+      "brand_id": 30,
       "name": "Sony SRS-XG300 - Negro",
       "model": "SRS-XG300",
       "description": "Parlante Sony SRS-XG300. type: Portátil Bluetooth, watts: 160, battery_hours: 15.",
@@ -9405,7 +9400,7 @@
     {
       "id": 480,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech Z150 - Azul",
       "model": "Z150",
       "description": "Parlante Logitech Z150. type: Escritorio USB, watts: 50, battery_hours: 10.",
@@ -9422,7 +9417,7 @@
     {
       "id": 481,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech Z150 - Rojo",
       "model": "Z150",
       "description": "Parlante Logitech Z150. type: Escritorio USB, watts: 50, battery_hours: 15.",
@@ -9439,7 +9434,7 @@
     {
       "id": 482,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Flip 6 - Blanco",
       "model": "Flip 6",
       "description": "Parlante JBL Flip 6. type: Sistema 2.0, watts: 80, battery_hours: 20.",
@@ -9456,7 +9451,7 @@
     {
       "id": 483,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Clip 4 - Blanco",
       "model": "Clip 4",
       "description": "Parlante JBL Clip 4. type: Escritorio USB, watts: 10, battery_hours: 20.",
@@ -9473,7 +9468,7 @@
     {
       "id": 484,
       "category_id": 4,
-      "brand_id": 6,
+      "brand_id": 5,
       "name": "Bose SoundLink Revolve+ II - Azul",
       "model": "SoundLink Revolve+ II",
       "description": "Parlante Bose SoundLink Revolve+ II. type: Sistema 2.1, watts: 20.",
@@ -9490,7 +9485,7 @@
     {
       "id": 485,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Flip 6 - Negro",
       "model": "Flip 6",
       "description": "Parlante JBL Flip 6. type: Portátil Bluetooth, watts: 30, battery_hours: 10.",
@@ -9507,7 +9502,7 @@
     {
       "id": 486,
       "category_id": 4,
-      "brand_id": 6,
+      "brand_id": 5,
       "name": "Bose SoundLink Revolve+ II - Negro",
       "model": "SoundLink Revolve+ II",
       "description": "Parlante Bose SoundLink Revolve+ II. type: Escritorio USB, watts: 20, battery_hours: 20.",
@@ -9524,7 +9519,7 @@
     {
       "id": 487,
       "category_id": 4,
-      "brand_id": 31,
+      "brand_id": 30,
       "name": "Sony SRS-XB43 - Rojo",
       "model": "SRS-XB43",
       "description": "Parlante Sony SRS-XB43. type: Escritorio USB, watts: 80, battery_hours: 8.",
@@ -9541,7 +9536,7 @@
     {
       "id": 488,
       "category_id": 4,
-      "brand_id": 31,
+      "brand_id": 30,
       "name": "Sony SRS-XG300 - Rojo",
       "model": "SRS-XG300",
       "description": "Parlante Sony SRS-XG300. type: Escritorio Bluetooth, watts: 160.",
@@ -9558,7 +9553,7 @@
     {
       "id": 489,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Go 3 - Gris",
       "model": "Go 3",
       "description": "Parlante JBL Go 3. type: Escritorio Bluetooth, watts: 30, battery_hours: 10.",
@@ -9575,7 +9570,7 @@
     {
       "id": 490,
       "category_id": 4,
-      "brand_id": 31,
+      "brand_id": 30,
       "name": "Sony SRS-XB100 - Negro",
       "model": "SRS-XB100",
       "description": "Parlante Sony SRS-XB100. type: Escritorio Bluetooth, watts: 50, battery_hours: 24.",
@@ -9592,7 +9587,7 @@
     {
       "id": 491,
       "category_id": 4,
-      "brand_id": 20,
+      "brand_id": 19,
       "name": "Logitech G560 Gaming - Gris",
       "model": "G560 Gaming",
       "description": "Parlante Logitech G560 Gaming. type: Escritorio USB, watts: 50, battery_hours: 15.",
@@ -9609,7 +9604,7 @@
     {
       "id": 492,
       "category_id": 4,
-      "brand_id": 17,
+      "brand_id": 16,
       "name": "JBL Flip 6 - Blanco",
       "model": "Flip 6",
       "description": "Parlante JBL Flip 6. type: Sistema 2.0, watts: 20, battery_hours: 15.",
@@ -9642,7 +9637,7 @@
     {
       "id": 494,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte Eagle OC GeForce RTX 4070 Ti",
       "model": "Eagle OC GeForce RTX 4070 Ti",
       "description": "Tarjeta Gráfica Gigabyte Eagle OC GeForce RTX 4070 Ti.",
@@ -9658,7 +9653,7 @@
     {
       "id": 495,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Ventus 2X GeForce RTX 4060",
       "model": "Ventus 2X GeForce RTX 4060",
       "description": "Tarjeta Gráfica MSI Ventus 2X GeForce RTX 4060.",
@@ -9674,7 +9669,7 @@
     {
       "id": 496,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte Gaming OC Radeon RX 7700 XT",
       "model": "Gaming OC Radeon RX 7700 XT",
       "description": "Tarjeta Gráfica Gigabyte Gaming OC Radeon RX 7700 XT.",
@@ -9690,7 +9685,7 @@
     {
       "id": 497,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte AORUS Master GeForce RTX 4090",
       "model": "AORUS Master GeForce RTX 4090",
       "description": "Tarjeta Gráfica Gigabyte AORUS Master GeForce RTX 4090.",
@@ -9706,7 +9701,7 @@
     {
       "id": 498,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Ventus 2X GeForce RTX 4060 Ti",
       "model": "Ventus 2X GeForce RTX 4060 Ti",
       "description": "Tarjeta Gráfica MSI Ventus 2X GeForce RTX 4060 Ti.",
@@ -9722,7 +9717,7 @@
     {
       "id": 499,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Ventus 2X GeForce RTX 4070",
       "model": "Ventus 2X GeForce RTX 4070",
       "description": "Tarjeta Gráfica MSI Ventus 2X GeForce RTX 4070.",
@@ -9738,7 +9733,7 @@
     {
       "id": 500,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte Eagle OC GeForce RTX 4060 Ti",
       "model": "Eagle OC GeForce RTX 4060 Ti",
       "description": "Tarjeta Gráfica Gigabyte Eagle OC GeForce RTX 4060 Ti.",
@@ -9770,7 +9765,7 @@
     {
       "id": 502,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Gaming X Trio GeForce RTX 4090",
       "model": "Gaming X Trio GeForce RTX 4090",
       "description": "Tarjeta Gráfica MSI Gaming X Trio GeForce RTX 4090.",
@@ -9786,7 +9781,7 @@
     {
       "id": 503,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Mech 2X Radeon RX 7600",
       "model": "Mech 2X Radeon RX 7600",
       "description": "Tarjeta Gráfica MSI Mech 2X Radeon RX 7600.",
@@ -9802,7 +9797,7 @@
     {
       "id": 504,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI Ventus 2X GeForce RTX 4070",
       "model": "Ventus 2X GeForce RTX 4070",
       "description": "Tarjeta Gráfica MSI Ventus 2X GeForce RTX 4070.",
@@ -9850,7 +9845,7 @@
     {
       "id": 507,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte Eagle OC GeForce RTX 4060",
       "model": "Eagle OC GeForce RTX 4060",
       "description": "Tarjeta Gráfica Gigabyte Eagle OC GeForce RTX 4060.",
@@ -9866,7 +9861,7 @@
     {
       "id": 508,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte Gaming OC GeForce RTX 4080 Super",
       "model": "Gaming OC GeForce RTX 4080 Super",
       "description": "Tarjeta Gráfica Gigabyte Gaming OC GeForce RTX 4080 Super.",
@@ -9898,7 +9893,7 @@
     {
       "id": 510,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte Windforce OC GeForce RTX 4070",
       "model": "Windforce OC GeForce RTX 4070",
       "description": "Tarjeta Gráfica Gigabyte Windforce OC GeForce RTX 4070.",
@@ -9979,7 +9974,7 @@
     {
       "id": 515,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core i3-14100F",
       "model": "Core i3-14100F",
       "description": "Procesador Intel Core i3-14100F.",
@@ -9996,7 +9991,7 @@
     {
       "id": 516,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core i3-14100F",
       "model": "Core i3-14100F",
       "description": "Procesador Intel Core i3-14100F.",
@@ -10013,7 +10008,7 @@
     {
       "id": 517,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core i5-14600K",
       "model": "Core i5-14600K",
       "description": "Procesador Intel Core i5-14600K.",
@@ -10081,7 +10076,7 @@
     {
       "id": 521,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core Ultra 9 285K",
       "model": "Core Ultra 9 285K",
       "description": "Procesador Intel Core Ultra 9 285K.",
@@ -10098,7 +10093,7 @@
     {
       "id": 522,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core Ultra 9 285K",
       "model": "Core Ultra 9 285K",
       "description": "Procesador Intel Core Ultra 9 285K.",
@@ -10132,7 +10127,7 @@
     {
       "id": 524,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core Ultra 5 245K",
       "model": "Core Ultra 5 245K",
       "description": "Procesador Intel Core Ultra 5 245K.",
@@ -10166,7 +10161,7 @@
     {
       "id": 526,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core i9-14900KF",
       "model": "Core i9-14900KF",
       "description": "Procesador Intel Core i9-14900KF.",
@@ -10183,7 +10178,7 @@
     {
       "id": 527,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core i5-14600KF",
       "model": "Core i5-14600KF",
       "description": "Procesador Intel Core i5-14600KF.",
@@ -10234,7 +10229,7 @@
     {
       "id": 530,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core Ultra 5 245K",
       "model": "Core Ultra 5 245K",
       "description": "Procesador Intel Core Ultra 5 245K.",
@@ -10268,7 +10263,7 @@
     {
       "id": 532,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core i5-14400F",
       "model": "Core i5-14400F",
       "description": "Procesador Intel Core i5-14400F.",
@@ -10285,7 +10280,7 @@
     {
       "id": 533,
       "category_id": 5,
-      "brand_id": 16,
+      "brand_id": 15,
       "name": "Intel Core i5-14600KF",
       "model": "Core i5-14600KF",
       "description": "Procesador Intel Core i5-14600KF.",
@@ -10319,7 +10314,7 @@
     {
       "id": 535,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial Ballistix DDR4 16GB 3200MHz",
       "model": "Ballistix DDR4 16GB 3200MHz",
       "description": "Memoria RAM Crucial Ballistix DDR4 16GB 3200MHz.",
@@ -10337,7 +10332,7 @@
     {
       "id": 536,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston Fury Beast DDR4 16GB 3200MHz",
       "model": "Fury Beast DDR4 16GB 3200MHz",
       "description": "Memoria RAM Kingston Fury Beast DDR4 16GB 3200MHz.",
@@ -10355,7 +10350,7 @@
     {
       "id": 537,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance DDR5 64GB (2x32) 5600MHz",
       "model": "Vengeance DDR5 64GB (2x32) 5600MHz",
       "description": "Memoria RAM Corsair Vengeance DDR5 64GB (2x32) 5600MHz.",
@@ -10373,7 +10368,7 @@
     {
       "id": 538,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial DDR5 16GB 4800MHz",
       "model": "DDR5 16GB 4800MHz",
       "description": "Memoria RAM Crucial DDR5 16GB 4800MHz.",
@@ -10391,7 +10386,7 @@
     {
       "id": 539,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston Fury Beast DDR5 16GB 5200MHz",
       "model": "Fury Beast DDR5 16GB 5200MHz",
       "description": "Memoria RAM Kingston Fury Beast DDR5 16GB 5200MHz.",
@@ -10409,7 +10404,7 @@
     {
       "id": 540,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance DDR5 16GB 5600MHz",
       "model": "Vengeance DDR5 16GB 5600MHz",
       "description": "Memoria RAM Corsair Vengeance DDR5 16GB 5600MHz.",
@@ -10427,7 +10422,7 @@
     {
       "id": 541,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial Ballistix DDR4 16GB 3200MHz",
       "model": "Ballistix DDR4 16GB 3200MHz",
       "description": "Memoria RAM Crucial Ballistix DDR4 16GB 3200MHz.",
@@ -10445,7 +10440,7 @@
     {
       "id": 542,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance DDR5 32GB (2x16) 6000MHz",
       "model": "Vengeance DDR5 32GB (2x16) 6000MHz",
       "description": "Memoria RAM Corsair Vengeance DDR5 32GB (2x16) 6000MHz.",
@@ -10463,7 +10458,7 @@
     {
       "id": 543,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial DDR5 32GB (2x16) 5600MHz",
       "model": "DDR5 32GB (2x16) 5600MHz",
       "description": "Memoria RAM Crucial DDR5 32GB (2x16) 5600MHz.",
@@ -10481,7 +10476,7 @@
     {
       "id": 544,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial DDR5 16GB 4800MHz",
       "model": "DDR5 16GB 4800MHz",
       "description": "Memoria RAM Crucial DDR5 16GB 4800MHz.",
@@ -10499,7 +10494,7 @@
     {
       "id": 545,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston Fury Beast DDR4 16GB 3200MHz",
       "model": "Fury Beast DDR4 16GB 3200MHz",
       "description": "Memoria RAM Kingston Fury Beast DDR4 16GB 3200MHz.",
@@ -10517,7 +10512,7 @@
     {
       "id": 546,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial Ballistix DDR4 16GB 3200MHz",
       "model": "Ballistix DDR4 16GB 3200MHz",
       "description": "Memoria RAM Crucial Ballistix DDR4 16GB 3200MHz.",
@@ -10535,7 +10530,7 @@
     {
       "id": 547,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance DDR5 16GB 5600MHz",
       "model": "Vengeance DDR5 16GB 5600MHz",
       "description": "Memoria RAM Corsair Vengeance DDR5 16GB 5600MHz.",
@@ -10553,7 +10548,7 @@
     {
       "id": 548,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance LPX DDR4 16GB 3200MHz",
       "model": "Vengeance LPX DDR4 16GB 3200MHz",
       "description": "Memoria RAM Corsair Vengeance LPX DDR4 16GB 3200MHz.",
@@ -10571,7 +10566,7 @@
     {
       "id": 549,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston Fury Beast DDR4 32GB (2x16) 3600MHz",
       "model": "Fury Beast DDR4 32GB (2x16) 3600MHz",
       "description": "Memoria RAM Kingston Fury Beast DDR4 32GB (2x16) 3600MHz.",
@@ -10589,7 +10584,7 @@
     {
       "id": 550,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance LPX DDR4 32GB (2x16) 3600MHz",
       "model": "Vengeance LPX DDR4 32GB (2x16) 3600MHz",
       "description": "Memoria RAM Corsair Vengeance LPX DDR4 32GB (2x16) 3600MHz.",
@@ -10607,7 +10602,7 @@
     {
       "id": 551,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston Fury Beast DDR4 16GB 3200MHz",
       "model": "Fury Beast DDR4 16GB 3200MHz",
       "description": "Memoria RAM Kingston Fury Beast DDR4 16GB 3200MHz.",
@@ -10625,7 +10620,7 @@
     {
       "id": 552,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance DDR5 32GB (2x16) 6000MHz",
       "model": "Vengeance DDR5 32GB (2x16) 6000MHz",
       "description": "Memoria RAM Corsair Vengeance DDR5 32GB (2x16) 6000MHz.",
@@ -10643,7 +10638,7 @@
     {
       "id": 553,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance DDR5 64GB (2x32) 5600MHz",
       "model": "Vengeance DDR5 64GB (2x32) 5600MHz",
       "description": "Memoria RAM Corsair Vengeance DDR5 64GB (2x32) 5600MHz.",
@@ -10661,7 +10656,7 @@
     {
       "id": 554,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance LPX DDR4 16GB 3200MHz",
       "model": "Vengeance LPX DDR4 16GB 3200MHz",
       "description": "Memoria RAM Corsair Vengeance LPX DDR4 16GB 3200MHz.",
@@ -10679,7 +10674,7 @@
     {
       "id": 555,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair Vengeance LPX DDR4 32GB (2x16) 3600MHz",
       "model": "Vengeance LPX DDR4 32GB (2x16) 3600MHz",
       "description": "Memoria RAM Corsair Vengeance LPX DDR4 32GB (2x16) 3600MHz.",
@@ -10697,7 +10692,7 @@
     {
       "id": 556,
       "category_id": 5,
-      "brand_id": 30,
+      "brand_id": 29,
       "name": "Seagate FireCuda 530 2TB NVMe",
       "model": "FireCuda 530 2TB NVMe",
       "description": "Almacenamiento SSD Seagate FireCuda 530 2TB NVMe.",
@@ -10715,7 +10710,7 @@
     {
       "id": 557,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston A400 960GB SATA",
       "model": "A400 960GB SATA",
       "description": "Almacenamiento SSD Kingston A400 960GB SATA.",
@@ -10733,7 +10728,7 @@
     {
       "id": 558,
       "category_id": 5,
-      "brand_id": 30,
+      "brand_id": 29,
       "name": "Seagate FireCuda 530 2TB NVMe",
       "model": "FireCuda 530 2TB NVMe",
       "description": "Almacenamiento SSD Seagate FireCuda 530 2TB NVMe.",
@@ -10751,7 +10746,7 @@
     {
       "id": 559,
       "category_id": 5,
-      "brand_id": 30,
+      "brand_id": 29,
       "name": "Seagate BarraCuda Q5 1TB NVMe",
       "model": "BarraCuda Q5 1TB NVMe",
       "description": "Almacenamiento SSD Seagate BarraCuda Q5 1TB NVMe.",
@@ -10769,7 +10764,7 @@
     {
       "id": 560,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston NV2 2TB NVMe",
       "model": "NV2 2TB NVMe",
       "description": "Almacenamiento SSD Kingston NV2 2TB NVMe.",
@@ -10787,7 +10782,7 @@
     {
       "id": 561,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston NV2 500GB NVMe",
       "model": "NV2 500GB NVMe",
       "description": "Almacenamiento SSD Kingston NV2 500GB NVMe.",
@@ -10805,7 +10800,7 @@
     {
       "id": 562,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston NV2 2TB NVMe",
       "model": "NV2 2TB NVMe",
       "description": "Almacenamiento SSD Kingston NV2 2TB NVMe.",
@@ -10823,7 +10818,7 @@
     {
       "id": 563,
       "category_id": 5,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung 870 EVO 1TB SATA",
       "model": "870 EVO 1TB SATA",
       "description": "Almacenamiento SSD Samsung 870 EVO 1TB SATA.",
@@ -10841,7 +10836,7 @@
     {
       "id": 564,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial BX500 1TB SATA",
       "model": "BX500 1TB SATA",
       "description": "Almacenamiento SSD Crucial BX500 1TB SATA.",
@@ -10859,7 +10854,7 @@
     {
       "id": 565,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston A400 960GB SATA",
       "model": "A400 960GB SATA",
       "description": "Almacenamiento SSD Kingston A400 960GB SATA.",
@@ -10877,7 +10872,7 @@
     {
       "id": 566,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston NV2 1TB NVMe",
       "model": "NV2 1TB NVMe",
       "description": "Almacenamiento SSD Kingston NV2 1TB NVMe.",
@@ -10895,7 +10890,7 @@
     {
       "id": 567,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston NV2 500GB NVMe",
       "model": "NV2 500GB NVMe",
       "description": "Almacenamiento SSD Kingston NV2 500GB NVMe.",
@@ -10913,7 +10908,7 @@
     {
       "id": 568,
       "category_id": 5,
-      "brand_id": 30,
+      "brand_id": 29,
       "name": "Seagate BarraCuda Q5 1TB NVMe",
       "model": "BarraCuda Q5 1TB NVMe",
       "description": "Almacenamiento SSD Seagate BarraCuda Q5 1TB NVMe.",
@@ -10931,7 +10926,7 @@
     {
       "id": 569,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial P5 Plus 1TB NVMe",
       "model": "P5 Plus 1TB NVMe",
       "description": "Almacenamiento SSD Crucial P5 Plus 1TB NVMe.",
@@ -10949,7 +10944,7 @@
     {
       "id": 570,
       "category_id": 5,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung 870 EVO 2TB SATA",
       "model": "870 EVO 2TB SATA",
       "description": "Almacenamiento SSD Samsung 870 EVO 2TB SATA.",
@@ -10967,7 +10962,7 @@
     {
       "id": 571,
       "category_id": 5,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung 990 Pro 1TB NVMe",
       "model": "990 Pro 1TB NVMe",
       "description": "Almacenamiento SSD Samsung 990 Pro 1TB NVMe.",
@@ -10985,7 +10980,7 @@
     {
       "id": 572,
       "category_id": 5,
-      "brand_id": 29,
+      "brand_id": 28,
       "name": "Samsung 980 Pro 1TB NVMe",
       "model": "980 Pro 1TB NVMe",
       "description": "Almacenamiento SSD Samsung 980 Pro 1TB NVMe.",
@@ -11003,7 +10998,7 @@
     {
       "id": 573,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston NV2 500GB NVMe",
       "model": "NV2 500GB NVMe",
       "description": "Almacenamiento SSD Kingston NV2 500GB NVMe.",
@@ -11021,7 +11016,7 @@
     {
       "id": 574,
       "category_id": 5,
-      "brand_id": 34,
+      "brand_id": 33,
       "name": "Western Digital Green 1TB SATA",
       "model": "Green 1TB SATA",
       "description": "Almacenamiento SSD Western Digital Green 1TB SATA.",
@@ -11039,7 +11034,7 @@
     {
       "id": 575,
       "category_id": 5,
-      "brand_id": 18,
+      "brand_id": 17,
       "name": "Kingston NV2 2TB NVMe",
       "model": "NV2 2TB NVMe",
       "description": "Almacenamiento SSD Kingston NV2 2TB NVMe.",
@@ -11057,7 +11052,7 @@
     {
       "id": 576,
       "category_id": 5,
-      "brand_id": 8,
+      "brand_id": 7,
       "name": "Crucial BX500 480GB SATA",
       "model": "BX500 480GB SATA",
       "description": "Almacenamiento SSD Crucial BX500 480GB SATA.",
@@ -11075,7 +11070,7 @@
     {
       "id": 577,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair CV650 650W 80+ Bronze",
       "model": "CV650 650W 80+ Bronze",
       "description": "Fuente de Poder Corsair CV650 650W 80+ Bronze.",
@@ -11092,7 +11087,7 @@
     {
       "id": 578,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair CV550 550W 80+ Bronze",
       "model": "CV550 550W 80+ Bronze",
       "description": "Fuente de Poder Corsair CV550 550W 80+ Bronze.",
@@ -11109,7 +11104,7 @@
     {
       "id": 579,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte P750GM 750W 80+ Gold",
       "model": "P750GM 750W 80+ Gold",
       "description": "Fuente de Poder Gigabyte P750GM 750W 80+ Gold.",
@@ -11126,7 +11121,7 @@
     {
       "id": 580,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair RM850x 850W 80+ Gold",
       "model": "RM850x 850W 80+ Gold",
       "description": "Fuente de Poder Corsair RM850x 850W 80+ Gold.",
@@ -11143,7 +11138,7 @@
     {
       "id": 581,
       "category_id": 5,
-      "brand_id": 10,
+      "brand_id": 9,
       "name": "EVGA SuperNOVA 1000 G7 1000W 80+ Gold",
       "model": "SuperNOVA 1000 G7 1000W 80+ Gold",
       "description": "Fuente de Poder EVGA SuperNOVA 1000 G7 1000W 80+ Gold.",
@@ -11160,7 +11155,7 @@
     {
       "id": 582,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair RM850x 850W 80+ Gold",
       "model": "RM850x 850W 80+ Gold",
       "description": "Fuente de Poder Corsair RM850x 850W 80+ Gold.",
@@ -11177,7 +11172,7 @@
     {
       "id": 583,
       "category_id": 5,
-      "brand_id": 10,
+      "brand_id": 9,
       "name": "EVGA SuperNOVA 850 G7 850W 80+ Gold",
       "model": "SuperNOVA 850 G7 850W 80+ Gold",
       "description": "Fuente de Poder EVGA SuperNOVA 850 G7 850W 80+ Gold.",
@@ -11194,7 +11189,7 @@
     {
       "id": 584,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte P850GM 850W 80+ Gold",
       "model": "P850GM 850W 80+ Gold",
       "description": "Fuente de Poder Gigabyte P850GM 850W 80+ Gold.",
@@ -11211,7 +11206,7 @@
     {
       "id": 585,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte P750GM 750W 80+ Gold",
       "model": "P750GM 750W 80+ Gold",
       "description": "Fuente de Poder Gigabyte P750GM 750W 80+ Gold.",
@@ -11228,7 +11223,7 @@
     {
       "id": 586,
       "category_id": 5,
-      "brand_id": 10,
+      "brand_id": 9,
       "name": "EVGA 600 BR 600W 80+ Bronze",
       "model": "600 BR 600W 80+ Bronze",
       "description": "Fuente de Poder EVGA 600 BR 600W 80+ Bronze.",
@@ -11245,7 +11240,7 @@
     {
       "id": 587,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte P850GM 850W 80+ Gold",
       "model": "P850GM 850W 80+ Gold",
       "description": "Fuente de Poder Gigabyte P850GM 850W 80+ Gold.",
@@ -11262,7 +11257,7 @@
     {
       "id": 588,
       "category_id": 5,
-      "brand_id": 10,
+      "brand_id": 9,
       "name": "EVGA 600 BR 600W 80+ Bronze",
       "model": "600 BR 600W 80+ Bronze",
       "description": "Fuente de Poder EVGA 600 BR 600W 80+ Bronze.",
@@ -11279,7 +11274,7 @@
     {
       "id": 589,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair CV650 650W 80+ Bronze",
       "model": "CV650 650W 80+ Bronze",
       "description": "Fuente de Poder Corsair CV650 650W 80+ Bronze.",
@@ -11296,7 +11291,7 @@
     {
       "id": 590,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair CV650 650W 80+ Bronze",
       "model": "CV650 650W 80+ Bronze",
       "description": "Fuente de Poder Corsair CV650 650W 80+ Bronze.",
@@ -11313,7 +11308,7 @@
     {
       "id": 591,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte P750GM 750W 80+ Gold",
       "model": "P750GM 750W 80+ Gold",
       "description": "Fuente de Poder Gigabyte P750GM 750W 80+ Gold.",
@@ -11330,7 +11325,7 @@
     {
       "id": 592,
       "category_id": 5,
-      "brand_id": 10,
+      "brand_id": 9,
       "name": "EVGA SuperNOVA 1000 G7 1000W 80+ Gold",
       "model": "SuperNOVA 1000 G7 1000W 80+ Gold",
       "description": "Fuente de Poder EVGA SuperNOVA 1000 G7 1000W 80+ Gold.",
@@ -11347,7 +11342,7 @@
     {
       "id": 593,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte P850GM 850W 80+ Gold",
       "model": "P850GM 850W 80+ Gold",
       "description": "Fuente de Poder Gigabyte P850GM 850W 80+ Gold.",
@@ -11364,7 +11359,7 @@
     {
       "id": 594,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair SF750 750W 80+ Platinum SFX",
       "model": "SF750 750W 80+ Platinum SFX",
       "description": "Fuente de Poder Corsair SF750 750W 80+ Platinum SFX.",
@@ -11381,7 +11376,7 @@
     {
       "id": 595,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair RM1000x 1000W 80+ Gold",
       "model": "RM1000x 1000W 80+ Gold",
       "description": "Fuente de Poder Corsair RM1000x 1000W 80+ Gold.",
@@ -11398,7 +11393,7 @@
     {
       "id": 596,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair RM1000x 1000W 80+ Gold",
       "model": "RM1000x 1000W 80+ Gold",
       "description": "Fuente de Poder Corsair RM1000x 1000W 80+ Gold.",
@@ -11415,7 +11410,7 @@
     {
       "id": 597,
       "category_id": 5,
-      "brand_id": 7,
+      "brand_id": 6,
       "name": "Corsair RM1000x 1000W 80+ Gold",
       "model": "RM1000x 1000W 80+ Gold",
       "description": "Fuente de Poder Corsair RM1000x 1000W 80+ Gold.",
@@ -11432,7 +11427,7 @@
     {
       "id": 598,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI PRO B650M-B",
       "model": "PRO B650M-B",
       "description": "Tarjeta Madre MSI PRO B650M-B.",
@@ -11452,7 +11447,7 @@
     {
       "id": 599,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI MAG Z790 Tomahawk WiFi",
       "model": "MAG Z790 Tomahawk WiFi",
       "description": "Tarjeta Madre MSI MAG Z790 Tomahawk WiFi.",
@@ -11532,7 +11527,7 @@
     {
       "id": 603,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte B760M Aorus Elite AX",
       "model": "B760M Aorus Elite AX",
       "description": "Tarjeta Madre Gigabyte B760M Aorus Elite AX.",
@@ -11552,7 +11547,7 @@
     {
       "id": 604,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte B650M DS3H",
       "model": "B650M DS3H",
       "description": "Tarjeta Madre Gigabyte B650M DS3H.",
@@ -11572,7 +11567,7 @@
     {
       "id": 605,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI PRO B760-P WiFi",
       "model": "PRO B760-P WiFi",
       "description": "Tarjeta Madre MSI PRO B760-P WiFi.",
@@ -11592,7 +11587,7 @@
     {
       "id": 606,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte B760M Aorus Elite AX",
       "model": "B760M Aorus Elite AX",
       "description": "Tarjeta Madre Gigabyte B760M Aorus Elite AX.",
@@ -11652,7 +11647,7 @@
     {
       "id": 609,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte B650M DS3H",
       "model": "B650M DS3H",
       "description": "Tarjeta Madre Gigabyte B650M DS3H.",
@@ -11672,7 +11667,7 @@
     {
       "id": 610,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI MAG B760M Mortar WiFi",
       "model": "MAG B760M Mortar WiFi",
       "description": "Tarjeta Madre MSI MAG B760M Mortar WiFi.",
@@ -11712,7 +11707,7 @@
     {
       "id": 612,
       "category_id": 5,
-      "brand_id": 21,
+      "brand_id": 20,
       "name": "MSI MAG Z790 Tomahawk WiFi",
       "model": "MAG Z790 Tomahawk WiFi",
       "description": "Tarjeta Madre MSI MAG Z790 Tomahawk WiFi.",
@@ -11752,7 +11747,7 @@
     {
       "id": 614,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte B760M Aorus Elite AX",
       "model": "B760M Aorus Elite AX",
       "description": "Tarjeta Madre Gigabyte B760M Aorus Elite AX.",
@@ -11772,7 +11767,7 @@
     {
       "id": 615,
       "category_id": 5,
-      "brand_id": 11,
+      "brand_id": 10,
       "name": "Gigabyte B650 Aorus Elite AX V2",
       "model": "B650 Aorus Elite AX V2",
       "description": "Tarjeta Madre Gigabyte B650 Aorus Elite AX V2.",
