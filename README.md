@@ -273,7 +273,7 @@ Un producto pertenece a una categoría y una marca. Un producto puede tener múl
 | `name` | varchar | Nombre completo |
 | `model` | varchar | Modelo o línea |
 | `description` | text | Descripción legible |
-| `image_url` | varchar | URL ficticia de imagen |
+| `image_url` | varchar | URL real de imagen (Unsplash) |
 | `specifications` | JSON | Specs técnicas (varían por categoría) |
 | `created_at` | timestamp | Fecha de creación |
 
@@ -401,7 +401,7 @@ Tipos: Tarjeta Gráfica, Procesador, Memoria RAM, Almacenamiento SSD, Fuente de 
 
 > **⚠️ TODOS LOS DATOS SON FICTICIOS.** Esta base de datos fue generada para un ejercicio académico en la Universidad Antonio Nariño. Los nombres de productos, precios, especificaciones y disponibilidad no corresponden a datos reales de ninguna tienda. No deben usarse como referencia de compra ni con fines comerciales.
 
-1. **Las URLs de imágenes y productos son ficticias.** Los equipos pueden ignorarlas o reemplazarlas con imágenes reales.
+1. **Las URLs de imágenes son fotos reales de Unsplash (licencia gratuita)** que corresponden al tipo de producto (laptops, celulares, tablets, periféricos, componentes). Las URLs de productos en tiendas siguen siendo ficticias.
 
 2. **Los precios son simulados** con rangos realistas para Colombia, pero no son precios reales de ninguna tienda. Las marcas y modelos de productos son reales como referencia, pero las combinaciones (variantes, colores, especificaciones) son generadas aleatoriamente.
 
