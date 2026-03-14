@@ -9967,7 +9967,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 211,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -9984,7 +9984,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 247,
-        "integrated_gpu": "No",
+        "integrated_gpu": false,
         "component_type": "Procesador"
       }
     },
@@ -10001,7 +10001,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 136,
-        "integrated_gpu": "No",
+        "integrated_gpu": false,
         "component_type": "Procesador"
       }
     },
@@ -10018,7 +10018,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 181,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10035,7 +10035,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 125,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10052,7 +10052,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 79,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10069,7 +10069,7 @@
         "threads": 32,
         "socket": "AM5",
         "tdp_w": 228,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10086,7 +10086,7 @@
         "threads": 12,
         "socket": "LGA 1851",
         "tdp_w": 87,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10103,7 +10103,7 @@
         "threads": 12,
         "socket": "LGA 1851",
         "tdp_w": 101,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10120,7 +10120,7 @@
         "threads": 16,
         "socket": "AM5",
         "tdp_w": 142,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10137,7 +10137,7 @@
         "threads": 12,
         "socket": "LGA 1851",
         "tdp_w": 130,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10154,7 +10154,7 @@
         "threads": 16,
         "socket": "AM5",
         "tdp_w": 120,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10171,7 +10171,7 @@
         "threads": 32,
         "socket": "AM5",
         "tdp_w": 234,
-        "integrated_gpu": "No",
+        "integrated_gpu": false,
         "component_type": "Procesador"
       }
     },
@@ -10188,7 +10188,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 234,
-        "integrated_gpu": "No",
+        "integrated_gpu": false,
         "component_type": "Procesador"
       }
     },
@@ -10205,7 +10205,7 @@
         "threads": 16,
         "socket": "AM5",
         "tdp_w": 144,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10222,7 +10222,7 @@
         "threads": 24,
         "socket": "AM5",
         "tdp_w": 179,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10239,7 +10239,7 @@
         "threads": 12,
         "socket": "LGA 1851",
         "tdp_w": 203,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10256,7 +10256,7 @@
         "threads": 16,
         "socket": "AM5",
         "tdp_w": 106,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
@@ -10273,7 +10273,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 113,
-        "integrated_gpu": "No",
+        "integrated_gpu": false,
         "component_type": "Procesador"
       }
     },
@@ -10290,7 +10290,7 @@
         "threads": 12,
         "socket": "AM5",
         "tdp_w": 213,
-        "integrated_gpu": "No",
+        "integrated_gpu": false,
         "component_type": "Procesador"
       }
     },
@@ -10307,7 +10307,7 @@
         "threads": 16,
         "socket": "AM5",
         "tdp_w": 161,
-        "integrated_gpu": "Sí",
+        "integrated_gpu": true,
         "component_type": "Procesador"
       }
     },
